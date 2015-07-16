@@ -14,7 +14,7 @@ Access the index.php through a web browser, chrome, safari, firefox, whatever yo
 If above works, replace the data stored in example_data with you own.
 
 ![Fig. 1: SNPs on Rice chromosomes.](https://github.com/daweih/d3_bioviz/blob/master/chromosomes/chr.js.png)
-Fig. 1. SNPs on Rice chromosomes: An example showing SNP data from reference 1 (data in supplementary information, TableS18.xls).
+Fig. 1. SNPs on rice chromosomes: An example showing SNP data from reference 1 (data in supplementary information, TableS18.xls).
 
 ## Reference
 - [Huang,X. et al. (2012) A map of rice genome variation reveals the origin of cultivated rice. Nature, 490, 497–501.](http://www.ncbi.nlm.nih.gov/pubmed/?term=23034647)
