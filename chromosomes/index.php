@@ -13,7 +13,7 @@
 		<a class="test"></a>
         <footer>
         </footer>
-		<script src="d3.v3.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
 		<script src="chr.js"></script>
     </body>
 </html>

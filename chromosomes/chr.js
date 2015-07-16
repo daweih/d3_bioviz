@@ -12,7 +12,7 @@ function chr_figure(log) {
 	var chr_width = 70;
 	var chr_band_width = 6;
 	var left_margin = 50;
-	d3.tsv("chromosome/rice_gwas/rice_chr_lgth.txt", function(data) {
+	d3.tsv("example_data/rice_chr_lgth.txt", function(data) {
 		var max_Length_bp = 0;
 		data.forEach(
 			function(d, index) {
@@ -61,7 +61,7 @@ function chr_figure(log) {
 						"y": function(y) {return fig_height-30;},
 						"x": function(x) {return 10+index*chr_width+chr_width/2;},
 					});
-	d3.tsv("chromosome/rice_gwas/"+d.Sequence+".sort.txt", function(data) {
+	d3.tsv("example_data/"+d.Sequence+".sort.txt", function(data) {
 		var fig_text_unit = (fig_height-fig_legend_height)/data.length;
 		var fig_p_unit    = (fig_height-fig_legend_height)/max_Length_bp;
 		data.forEach(
