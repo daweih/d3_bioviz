@@ -1,0 +1,52 @@
+Chr	POS	SNPName	process	trait	chr_index	color	chr_lgth
+7	365093	Os07g0106500	A->T	Non-synonymous substitution	6	black	29697621
+7	381647	Os07g0106850	C->T	Non-synonymous substitution	6	black	29697621
+7	441025	Os07g0108200	T->C	Non-synonymous substitution	6	black	29697621
+7	467281	Os07g0108800	A->G	Non-synonymous substitution	6	black	29697621
+7	519999	Os07g0109400	A->G	Non-synonymous substitution	6	black	29697621
+7	552805	Os07g0110000	G->A	Non-synonymous substitution	6	black	29697621
+7	664810	Os07g0111700	A->G	Non-synonymous substitution	6	black	29697621
+7	664844	Os07g0111700	T->C	Non-synonymous substitution	6	black	29697621
+7	664888	Os07g0111700	G->T	Non-synonymous substitution	6	black	29697621
+7	664920	Os07g0111700	C->G	Non-synonymous substitution	6	black	29697621
+7	664925	Os07g0111700	A->G	Non-synonymous substitution	6	black	29697621
+7	673380	Os07g0111900	C->A	Non-synonymous substitution	6	black	29697621
+7	676845	Os07g0112000	A->C	Non-synonymous substitution	6	black	29697621
+7	677149	Os07g0112000	A->G	Non-synonymous substitution	6	black	29697621
+7	677368	Os07g0112000	A->T	Non-synonymous substitution	6	black	29697621
+7	685356	Os07g0112100	A->C	Non-synonymous substitution	6	black	29697621
+7	689201	Os07g0112300	T->C	Non-synonymous substitution	6	black	29697621
+7	689384	Os07g0112350	A->G	Stop codon disrupted	6	darkcyan	29697621
+7	691073	Os07g0112400	A->C	Non-synonymous substitution	6	black	29697621
+7	691226	Os07g0112400	A->C	Non-synonymous substitution	6	black	29697621
+7	693110	Os07g0112400	A->G	Non-synonymous substitution	6	black	29697621
+7	693138	Os07g0112400	C->G	Non-synonymous substitution	6	black	29697621
+7	726267	Os07g0113300	T->C	Splicing site disrupted	6	blue	29697621
+7	727745	Os07g0113300	T->C	Non-synonymous substitution	6	black	29697621
+7	727829	Os07g0113300	A->G	Non-synonymous substitution	6	black	29697621
+7	727840	Os07g0113300	G->A	Non-synonymous substitution	6	black	29697621
+7	743078	Os07g0113500	A->G	Non-synonymous substitution	6	black	29697621
+7	839532	Os07g0115300	T->G	Non-synonymous substitution	6	black	29697621
+7	839533	Os07g0115300	T->C	Non-synonymous substitution	6	black	29697621
+7	841052	Os07g0115400	T->C	Non-synonymous substitution	6	black	29697621
+7	852717	Os07g0115600	C->T	Non-synonymous substitution	6	black	29697621
+7	869641	Os07g0115700	A->C	Non-synonymous substitution	6	black	29697621
+7	869992	Os07g0115700	A->C	Non-synonymous substitution	6	black	29697621
+7	870478	Os07g0115700	T->C	Non-synonymous substitution	6	black	29697621
+7	895994	Os07g0116300	A->G	Non-synonymous substitution	6	black	29697621
+7	957839	Os07g0117700	A->C	Non-synonymous substitution	6	black	29697621
+7	964203	Os07g0117900	T->C	Non-synonymous substitution	6	black	29697621
+7	972179	Os07g0118200	C->G	Non-synonymous substitution	6	black	29697621
+7	975739	Os07g0118250	C->T	Non-synonymous substitution	6	black	29697621
+7	3298374	Os07g0160801	T->G	Non-synonymous substitution	6	black	29697621
+7	3323523	Os07g0161600	T->G	Non-synonymous substitution	6	black	29697621
+7	3361760	Os07g0162300	T->C	Non-synonymous substitution	6	black	29697621
+7	3372415	Os07g0162450	T->G	Non-synonymous substitution	6	black	29697621
+7	3384610	Os07g0162700	T->C	Non-synonymous substitution	6	black	29697621
+7	3462224	Os07g0164000	C->A	Non-synonymous substitution	6	black	29697621
+7	3462779	Os07g0164000	G->A	Splicing site disrupted	6	blue	29697621
+7	26192959	Os07g0618600	G->A	Non-synonymous substitution	6	black	29697621
+7	26294592	Os07g0620100	G->A	Non-synonymous substitution	6	black	29697621
+7	26297632	Os07g0620200	T->C	Non-synonymous substitution	6	black	29697621
+7	26306911	Os07g0620400	C->T	Non-synonymous substitution	6	black	29697621
+7	26387798	Os07g0622200	G->T	Non-synonymous substitution	6	black	29697621

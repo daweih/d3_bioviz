@@ -1,0 +1,43 @@
+Chr	POS	SNPName	process	trait	chr_index	color	chr_lgth
+12	2228722	Os12g0145300	A->G	Non-synonymous substitution	11	black	27531856
+12	2236543	Os12g0145500	T->C	Non-synonymous substitution	11	black	27531856
+12	2304550	Os12g0147000	T->G	Non-synonymous substitution	11	black	27531856
+12	2304877	Os12g0147000	A->G	Non-synonymous substitution	11	black	27531856
+12	2410574	Os12g0148900	A->G	Non-synonymous substitution	11	black	27531856
+12	2744109	Os12g0155800	T->C	Non-synonymous substitution	11	black	27531856
+12	2970506	Os12g0159400	T->C	Non-synonymous substitution	11	black	27531856
+12	3137393	Os12g0162300	T->C	Non-synonymous substitution	11	black	27531856
+12	3252251	Os12g0163900	C->T	Non-synonymous substitution	11	black	27531856
+12	3253506	Os12g0163900	C->A	Non-synonymous substitution	11	black	27531856
+12	3256526	Os12g0164000	A->G	Non-synonymous substitution	11	black	27531856
+12	3256655	Os12g0164000	A->G	Non-synonymous substitution	11	black	27531856
+12	3257139	Os12g0164000	A->G	Non-synonymous substitution	11	black	27531856
+12	3293715	Os12g0164600	G->A	Non-synonymous substitution	11	black	27531856
+12	3317804	Os12g0165300	C->T	Non-synonymous substitution	11	black	27531856
+12	3317805	Os12g0165300	T->C	Non-synonymous substitution	11	black	27531856
+12	3320991	Os12g0165400	C->G	Non-synonymous substitution	11	black	27531856
+12	3352520	Os12g0166200	A->T	Non-synonymous substitution	11	black	27531856
+12	3356557	Os12g0166300	T->C	Non-synonymous substitution	11	black	27531856
+12	3380008	Os12g0166600	T->G	Non-synonymous substitution	11	black	27531856
+12	3395329	Os12g0167300	A->G	Non-synonymous substitution	11	black	27531856
+12	3396713	Os12g0167300	A->G	Non-synonymous substitution	11	black	27531856
+12	3457500	Os12g0168400	A->G	Non-synonymous substitution	11	black	27531856
+12	3458716	Os12g0168400	A->G	Non-synonymous substitution	11	black	27531856
+12	3495303	Os12g0168800	T->C	Non-synonymous substitution	11	black	27531856
+12	3515828	Os12g0169100	A->T	Premature	11	orange	27531856
+12	3515829	Os12g0169100	A->C	Non-synonymous substitution	11	black	27531856
+12	3542388	Os12g0169600	T->C	Non-synonymous substitution	11	black	27531856
+12	3798062	Os12g0174900	A->G	Non-synonymous substitution	11	black	27531856
+12	26901491	Os12g0624500	A->G	Non-synonymous substitution	11	black	27531856
+12	26911447	Os12g0624700	T->C	Non-synonymous substitution	11	black	27531856
+12	26934299	Os12g0625101	A->G	Stop codon disrupted	11	darkcyan	27531856
+12	26944614	Os12g0625300	A->G	Non-synonymous substitution	11	black	27531856
+12	27044726	Os12g0626900	T->C	Non-synonymous substitution	11	black	27531856
+12	27626643	Os12g0638900	A->C	Non-synonymous substitution	11	black	27531856
+12	27636943	Os12g0639100	T->C	Non-synonymous substitution	11	black	27531856
+12	27658058	Os12g0639600	T->C	Non-synonymous substitution	11	black	27531856
+12	27677965	Os12g0640200	T->G	Non-synonymous substitution	11	black	27531856
+12	27697417	Os12g0640600	G->A	Non-synonymous substitution	11	black	27531856
+12	27702997	Os12g0640700	A->G	Non-synonymous substitution	11	black	27531856
+12	27727063	Os12g0641100	T->C	Non-synonymous substitution	11	black	27531856
+12	27744160	Os12g0641400	A->G	Non-synonymous substitution	11	black	27531856

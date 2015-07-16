@@ -1,0 +1,27 @@
+Chr	POS	SNPName	process	trait	chr_index	color	chr_lgth
+11	977911	Os11g0123000	A->G	Non-synonymous substitution	10	black	29021106
+11	2402763	Os11g0151600	G->A	Non-synonymous substitution	10	black	29021106
+11	2405977	Os11g0151700	C->T	Non-synonymous substitution	10	black	29021106
+11	2776053	Os11g0157600	T->C	Non-synonymous substitution	10	black	29021106
+11	2920510	Os11g0160450	T->C	Non-synonymous substitution	10	black	29021106
+11	2949696	Os11g0160800	T->C	Non-synonymous substitution	10	black	29021106
+11	2956157	Os11g0161000	C->A	Non-synonymous substitution	10	black	29021106
+11	3005023	Os11g0161100	G->C	Non-synonymous substitution	10	black	29021106
+11	3005151	Os11g0161100	A->G	Non-synonymous substitution	10	black	29021106
+11	3005240	Os11g0161100	G->C	Non-synonymous substitution	10	black	29021106
+11	3084976	Os11g0163600	T->C	Non-synonymous substitution	10	black	29021106
+11	3227235	Os11g0167000	G->A	Non-synonymous substitution	10	black	29021106
+11	3229177	Os11g0167100	C->T	Non-synonymous substitution	10	black	29021106
+11	3237344	Os11g0167300	T->G	Non-synonymous substitution	10	black	29021106
+11	3249946	Os11g0167600	A->G	Non-synonymous substitution	10	black	29021106
+11	3250187	Os11g0167600	A->G	Non-synonymous substitution	10	black	29021106
+11	3285178	Os11g0168300	A->G	Non-synonymous substitution	10	black	29021106
+11	3290948	Os11g0168500	A->G	Non-synonymous substitution	10	black	29021106
+11	15718991	Os11g0431700	C->T	Non-synonymous substitution	10	black	29021106
+11	15738365	Os11g0431700	A->G	Non-synonymous substitution	10	black	29021106
+11	15865142	Os11g0433800	G->A	Non-synonymous substitution	10	black	29021106
+11	15869147	Os11g0433900	C->G	Non-synonymous substitution	10	black	29021106
+11	15894767	Os11g0434500	A->G	Non-synonymous substitution	10	black	29021106
+11	15915598	Os11g0434900	T->C	Non-synonymous substitution	10	black	29021106
+11	15915735	Os11g0434900	T->G	Non-synonymous substitution	10	black	29021106
+11	15935522	Os11g0435200	G->C	Non-synonymous substitution	10	black	29021106

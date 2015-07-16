@@ -1,0 +1,32 @@
+Chr	POS	SNPName	process	trait	chr_index	color	chr_lgth
+10	14218677	Os10g0405801	A->G	Non-synonymous substitution	9	black	23207287
+10	14254636	Os10g0406400	A->G	Non-synonymous substitution	9	black	23207287
+10	14275380	Os10g0406700	T->C	Non-synonymous substitution	9	black	23207287
+10	14291656	Os10g0407000	T->C	Non-synonymous substitution	9	black	23207287
+10	14528938	Os10g0409400	T->C	Non-synonymous substitution	9	black	23207287
+10	14587344	Os10g0409900	A->G	Non-synonymous substitution	9	black	23207287
+10	14596661	Os10g0410100	A->G	Non-synonymous substitution	9	black	23207287
+10	14596677	Os10g0410100	G->A	Non-synonymous substitution	9	black	23207287
+10	14599428	Os10g0410400	T->C	Non-synonymous substitution	9	black	23207287
+10	14618963	Os10g0410700	T->G	Non-synonymous substitution	9	black	23207287
+10	14619725	Os10g0410700	T->C	Non-synonymous substitution	9	black	23207287
+10	22304763	Os10g0555900	A->G	Non-synonymous substitution	9	black	23207287
+10	22350098	Os10g0556801	A->T	Non-synonymous substitution	9	black	23207287
+10	22350132	Os10g0556801	A->C	Non-synonymous substitution	9	black	23207287
+10	22489315	Os10g0559700	T->C	Non-synonymous substitution	9	black	23207287
+10	22540046	Os10g0560500	A->G	Non-synonymous substitution	9	black	23207287
+10	22593169	Os10g0561500	T->A	Non-synonymous substitution	9	black	23207287
+10	22608082	Os10g0561800	A->G	Non-synonymous substitution	9	black	23207287
+10	22623607	Os10g0562000	A->C	Non-synonymous substitution	9	black	23207287
+10	22623661	Os10g0562000	T->C	Non-synonymous substitution	9	black	23207287
+10	22648489	Os10g0562600	T->C	Non-synonymous substitution	9	black	23207287
+10	22925249	Os10g0567000	T->C	Non-synonymous substitution	9	black	23207287
+10	22958028	Os10g0567700	T->C	Non-synonymous substitution	9	black	23207287
+10	22958043	Os10g0567700	A->G	Non-synonymous substitution	9	black	23207287
+10	22985900	Os10g0568200	A->G	Non-synonymous substitution	9	black	23207287
+10	22986000	Os10g0568200	A->C	Non-synonymous substitution	9	black	23207287
+10	22987664	Os10g0568300	A->G	Non-synonymous substitution	9	black	23207287
+10	22988420	Os10g0568300	A->G	Splicing site disrupted	9	blue	23207287
+10	22989150	Os10g0568300	T->C	Non-synonymous substitution	9	black	23207287
+10	23004679	Os10g0568500	A->G	Non-synonymous substitution	9	black	23207287
+10	23004841	Os10g0568500	A->G	Non-synonymous substitution	9	black	23207287

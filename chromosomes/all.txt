@@ -1,0 +1,976 @@
+Chr	POS	SNPName	process	trait	chr_index	color	chr_lgth
+1	21733010	Os01g0543200	C	T	Non-synonymous substitution	Hypothetical protein.
+1	21754478	Os01g0543400	A	G	Non-synonymous substitution	expressed protein
+1	21754583	Os01g0543400	C	G	Non-synonymous substitution	expressed protein
+1	21754608	Os01g0543400	C	T	Non-synonymous substitution	expressed protein
+1	21987032	Os01g0547000	C	T	Non-synonymous substitution	Similar to LRR19.
+1	22137987	Os01g0548900	A	T	Non-synonymous substitution	expressed protein
+1	22601601	Os01g0555400	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+1	22671845	Os01g0556600	G	A	Non-synonymous substitution	Protein of unknown function DUF889, eukaryote family protein.
+1	22673567	Os01g0556600	A	G	Non-synonymous substitution	Protein of unknown function DUF889, eukaryote family protein.
+1	22740070	Os01g0557700	A	G	Non-synonymous substitution	expressed protein
+1	22741588	Os01g0557850	A	G	Non-synonymous substitution	Hypothetical protein.
+1	22797808	Os01g0558500	C	A	Non-synonymous substitution	PWWP domain containing protein.
+1	23011966	Os01g0562100	T	C	Non-synonymous substitution	Hypothetical protein.
+1	23041718	Os01g0562400	T	C	Non-synonymous substitution	Peptidylprolyl isomerase, FKBP-type domain containing protein.
+1	23262550	Os01g0565200	G	T	Non-synonymous substitution	Hypothetical protein.
+1	23262568	Os01g0565200	A	G	Non-synonymous substitution	Hypothetical protein.
+1	23262735	Os01g0565200	C	A	Non-synonymous substitution	Hypothetical protein.
+1	23262752	Os01g0565200	A	G	Non-synonymous substitution	Hypothetical protein.
+1	23262800	Os01g0565200	T	C	Non-synonymous substitution	Hypothetical protein.
+1	23291872	Os01g0566000	G	C	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+1	23380927	Os01g0567600	C	T	Non-synonymous substitution	Similar to Monosaccharide transporter 3.
+1	23412573	Os01g0568200	A	G	Non-synonymous substitution	Hypothetical protein.
+1	23412576	Os01g0568200	A	G	Non-synonymous substitution	Hypothetical protein.
+1	23480691	Os01g0569500	A	G	Met codon disrupted	Hypothetical protein.
+1	23480708	Os01g0569500	G	A	Premature	Hypothetical protein.
+1	23610920	Os01g0571666	T	C	Non-synonymous substitution	Hypothetical protein.
+1	23611978	Os01g0571666	T	C	Non-synonymous substitution	Hypothetical protein.
+1	23680561	Os01g0572700	A	C	Non-synonymous substitution	Calcium-binding EF-hand domain containing protein.
+1	23701840	Os01g0573300	T	C	Non-synonymous substitution	DUF260 domain containing protein, putative, expressed
+1	23701951	Os01g0573300	T	C	Non-synonymous substitution	DUF260 domain containing protein, putative, expressed
+1	23912619	Os01g0576500	T	C	Non-synonymous substitution	Hypothetical protein.
+1	23930088	Os01g0576700	A	G	Non-synonymous substitution	Hypothetical protein.
+1	23932940	Os01g0576900	G	A	Premature	Hypothetical protein.
+1	23932947	Os01g0576900	T	C	Non-synonymous substitution	Hypothetical protein.
+1	23932965	Os01g0576900	T	G	Non-synonymous substitution	Hypothetical protein.
+1	23936014	Os01g0577000	T	C	Non-synonymous substitution	Hypothetical protein.
+1	32680360	Os01g0740500	C	T	Non-synonymous substitution	Protease-associated PA domain containing protein.
+1	32683229	Os01g0740500	A	G	Non-synonymous substitution	Protease-associated PA domain containing protein.
+1	32723509	Os01g0741800	T	C	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32723949	Os01g0741800	A	C	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32724153	Os01g0741800	A	G	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32724177	Os01g0741800	A	G	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32724933	Os01g0741800	A	G	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32724958	Os01g0741800	T	C	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32725290	Os01g0741800	A	G	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32725405	Os01g0741800	A	C	Non-synonymous substitution	HAT dimerisation domain containing protein.
+1	32741982	Os01g0742100	A	G	Met codon disrupted	Conserved hypothetical protein.
+1	32751643	Os01g0742200	G	A	Non-synonymous substitution	Similar to Elongation factor EF-2 (Fragment).
+1	32763916	Os01g0742400	T	G	Non-synonymous substitution	Protein kinase-like domain containing protein.
+1	32804422	Os01g0743100	A	T	Non-synonymous substitution	IQ calmodulin-binding region domain containing protein.
+1	32843612	Os01g0743600	T	G	Non-synonymous substitution	Peptidase S16, lon N-terminal domain containing protein.
+1	32852596	Os01g0743900	A	G	Non-synonymous substitution	Hypothetical protein.
+1	32860709	Os01g0744000	A	G	Non-synonymous substitution	Similar to Kinesin heavy chain (Fragment).
+1	32864692	Os01g0744200	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+1	32870417	Os01g0744300	T	C	Non-synonymous substitution	Similar to Casein kinase-like protein.
+1	32879238	Os01g0744500	A	G	Non-synonymous substitution	Hypothetical protein.
+1	32881198	Os01g0744500	T	C	Non-synonymous substitution	Hypothetical protein.
+1	32964647	Os01g0746200	G	C	Non-synonymous substitution	Nup85 nucleoporin family protein.
+1	32981319	Os01g0746400	T	G	Non-synonymous substitution	Carotenoid oxygenase family protein.
+1	32986214	Os01g0746550	C	T	Non-synonymous substitution	Hypothetical protein.
+1	39403607	Os01g0868800	A	C	Non-synonymous substitution	OsSub10 - Putative Subtilisin homologue, expressed
+1	39417825	Os01g0869100	T	C	Non-synonymous substitution	expressed protein
+1	39512143	Os01g0870733	T	C	Non-synonymous substitution	Hypothetical protein.
+1	39514164	Os01g0870866	A	G	Non-synonymous substitution	Hypothetical protein.
+1	39516857	Os01g0871000	A	G	Non-synonymous substitution	S-domain receptor-like protein kinase, putative, expressed
+1	39516860	Os01g0871000	A	G	Non-synonymous substitution	S-domain receptor-like protein kinase, putative, expressed
+1	39516864	Os01g0871000	C	T	Non-synonymous substitution	S-domain receptor-like protein kinase, putative, expressed
+1	39516878	Os01g0871000	C	G	Non-synonymous substitution	S-domain receptor-like protein kinase, putative, expressed
+1	39516892	Os01g0871000	A	T	Non-synonymous substitution	S-domain receptor-like protein kinase, putative, expressed
+1	39516894	Os01g0871000	G	A	Non-synonymous substitution	S-domain receptor-like protein kinase, putative, expressed
+1	39610941	Os01g0872800	A	T	Non-synonymous substitution	Similar to 3-phosphoinositide-dependent protein kinase-1 (Fragment).
+1	39648545	Os01g0873800	T	A	Non-synonymous substitution	Conserved hypothetical protein.
+1	39713746	Os01g0874800	T	C	Non-synonymous substitution	5'-3' exonuclease domain containing protein.
+1	39725227	Os01g0875000	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+1	39725300	Os01g0875000	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+1	39750685	Os01g0875500	G	A	Non-synonymous substitution	Similar to Beta-galactosidase (EC 3.2.1.23).
+1	39750750	Os01g0875500	C	G	Non-synonymous substitution	Similar to Beta-galactosidase (EC 3.2.1.23).
+1	39755926	Os01g0875500	T	C	Non-synonymous substitution	Similar to Beta-galactosidase (EC 3.2.1.23).
+1	39785006	Os01g0876400	T	C	Non-synonymous substitution	Galactose-binding like domain containing protein.
+1	41874047	Os01g0919500	T	C	Non-synonymous substitution	Zinc finger, RING-type domain containing protein.
+1	41912813	Os01g0920000	T	C	Non-synonymous substitution	CBS domain containing protein.
+1	41961043	Os01g0920800	G	C	Non-synonymous substitution	expressed protein
+1	41987731	Os01g0921300	A	C	Non-synonymous substitution	Exostosin-like family protein.
+1	42008524	Os01g0921733	C	T	Non-synonymous substitution	Hypothetical protein.
+1	42875535	Os01g0935800	T	C	Non-synonymous substitution	Protein kinase domain containing protein.
+1	42934546	Os01g0937050	G	C	Non-synonymous substitution	Peptidase aspartic, catalytic domain containing protein.
+1	42934549	Os01g0937050	G	C	Non-synonymous substitution	Peptidase aspartic, catalytic domain containing protein.
+1	42935271	Os01g0937050	A	G	Non-synonymous substitution	Peptidase aspartic, catalytic domain containing protein.
+1	42947446	Os01g0937300	G	T	Non-synonymous substitution	Disease resistance protein family protein.
+1	43018445	Os01g0939100	A	G	Non-synonymous substitution	Similar to Calmodulin-stimulated calcium-ATPase.
+1	43101149	Os01g0940100	C	T	Non-synonymous substitution	Similar to Hexokinase.
+2	868862	Os02g0116400	G	A	Non-synonymous substitution	Oligopeptide transporter OPT superfamily protein.
+2	921034	Os02g0117500	A	C	Non-synonymous substitution	Similar to Glutamate receptor 3.3 precursor (Ligand-gated ion channel 3.3).
+2	921786	Os02g0117500	G	A	Non-synonymous substitution	Similar to Glutamate receptor 3.3 precursor (Ligand-gated ion channel 3.3).
+2	922816	Os02g0117500	G	A	Non-synonymous substitution	Similar to Glutamate receptor 3.3 precursor (Ligand-gated ion channel 3.3).
+2	980474	Os02g0118800	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+2	1022656	Os02g0119400	A	G	Non-synonymous substitution	Similar to Syntaxin 52 (AtSYP52).
+2	1046386	Os02g0119900	C	T	Non-synonymous substitution	Hypothetical protein.
+2	1068721	Os02g0120300	G	T	Non-synonymous substitution	Conserved hypothetical protein.
+2	1191349	Os02g0122700	T	C	Non-synonymous substitution	ATXR, putative, expressed
+2	1299405	Os02g0124900	A	G	Non-synonymous substitution	Hypothetical protein.
+2	1306850	Os02g0125100	T	C	Non-synonymous substitution	Cis-homoaconitase family protein.
+2	5483091	Os02g0197900	T	A	Non-synonymous substitution	Conserved hypothetical protein.
+2	5483103	Os02g0197900	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+2	5567498	Os02g0199200	T	C	Non-synonymous substitution	NB-ARC domain containing disease resistance protein, putative, expressed
+2	5779662	Os02g0203400	A	G	Non-synonymous substitution	expressed protein
+2	5779839	Os02g0203400	T	C	Non-synonymous substitution	expressed protein
+2	6122031	Os02g0208700	G	C	Non-synonymous substitution	Galactose oxidase, central domain containing protein.
+2	6221380	Os02g0210800	A	C	Non-synonymous substitution	UDP-glucuronosyl/UDP-glucosyltransferase family protein.
+2	6227121	Os02g0211000	T	C	Non-synonymous substitution	ABC transporter related domain containing protein.
+2	6227125	Os02g0211000	C	T	Non-synonymous substitution	ABC transporter related domain containing protein.
+2	6229707	Os02g0211000	T	C	Non-synonymous substitution	ABC transporter related domain containing protein.
+2	6231152	Os02g0211000	A	G	Non-synonymous substitution	ABC transporter related domain containing protein.
+2	6248135	Os02g0211300	T	C	Non-synonymous substitution	expressed protein
+2	6283749	Os02g0211900	G	A	Non-synonymous substitution	receptor-like protein kinase precursor, putative, expressed
+2	6329722	Os02g0212825	A	G	Non-synonymous substitution	Hypothetical protein.
+2	6329978	Os02g0212825	A	G	Non-synonymous substitution	Hypothetical protein.
+2	6334915	Os02g0212850	T	C	Non-synonymous substitution	Hypothetical protein.
+2	6335841	Os02g0212875	G	C	Non-synonymous substitution	Hypothetical protein.
+2	6336318	Os02g0212901	T	C	Non-synonymous substitution	Hypothetical protein.
+2	6337315	Os02g0212950	T	C	Non-synonymous substitution	Hypothetical protein.
+2	6411169	Os02g0213800	C	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	6416565	Os02g0214000	C	G	Non-synonymous substitution	expressed protein
+2	10839742	Os02g0286933	A	C	Non-synonymous substitution	Protein of unknown function Cys-rich family protein.
+2	10839971	Os02g0286933	T	C	Non-synonymous substitution	Protein of unknown function Cys-rich family protein.
+2	10887554	Os02g0287900	T	G	Non-synonymous substitution	Curculin-like (mannose-binding) lectin domain containing protein.
+2	10895493	Os02g0288100	A	C	Non-synonymous substitution	Similar to Pectinesterase (EC 3.1.1.11) (Fragment).
+2	10900062	Os02g0288200	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+2	10913732	Os02g0288400	T	C	Non-synonymous substitution	Similar to Multidrug resistance associated protein 2.
+2	10937623	Os02g0288733	T	G	Non-synonymous substitution	ABC transporter, transmembrane region domain containing protein.
+2	10992555	Os02g0290000	A	G	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+2	11209512	Os02g0293800	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	11210812	Os02g0293800	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	11240327	Os02g0294700	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	11313511	Os02g0295500	A	G	Stop codon disrupted	Hypothetical protein.
+2	11315212	Os02g0295500	A	G	Non-synonymous substitution	Hypothetical protein.
+2	11315216	Os02g0295500	G	C	Non-synonymous substitution	Hypothetical protein.
+2	11324372	Os02g0295700	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	11324375	Os02g0295700	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	11381193	Os02g0296700	A	G	Non-synonymous substitution	expressed protein
+2	11391749	Os02g0297000	A	G	Non-synonymous substitution	ATPase, AAA family protein, expressed
+2	11434835	Os02g0297700	T	C	Non-synonymous substitution	Hypothetical protein.
+2	11440404	Os02g0297800	A	T	Non-synonymous substitution	lectin-like receptor kinase, putative, expressed
+2	11456923	Os02g0298200	T	C	Non-synonymous substitution	Similar to Resistance protein candidate (Fragment).
+2	11475655	Os02g0298700	T	G	Non-synonymous substitution	Hypothetical protein.
+2	11538560	Os02g0299701	C	A	Non-synonymous substitution	Hypothetical protein.
+2	11599617	Os02g0300800	T	C	Non-synonymous substitution	Hypothetical protein.
+2	11770441	Os02g0302500	G	A	Non-synonymous substitution	Conserved hypothetical protein.
+2	11809993	Os02g0303300	T	G	Non-synonymous substitution	Hypothetical protein.
+2	11871735	Os02g0304200	A	C	Non-synonymous substitution	Hypothetical protein.
+2	11884448	Os02g0304300	C	T	Non-synonymous substitution	Hypothetical protein.
+2	12708344	Os02g0318500	G	C	Non-synonymous substitution	Similar to PDR6 ABC transporter.
+2	12735807	Os02g0318900	T	C	Non-synonymous substitution	Hypothetical protein.
+2	12735958	Os02g0318900	C	A	Non-synonymous substitution	Hypothetical protein.
+2	12736002	Os02g0318900	A	G	Non-synonymous substitution	Hypothetical protein.
+2	12748339	Os02g0319050	A	G	Non-synonymous substitution	Hypothetical protein.
+2	12770803	Os02g0319800	T	C	Non-synonymous substitution	WD40-like domain containing protein.
+2	12844580	Os02g0321000	A	G	Non-synonymous substitution	Tetratricopeptide-like helical domain containing protein.
+2	12844937	Os02g0321000	A	T	Non-synonymous substitution	Tetratricopeptide-like helical domain containing protein.
+2	12881263	Os02g0321600	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	12899654	Os02g0321900	T	A	Non-synonymous substitution	Similar to 60S ribosomal protein L10a-1.
+2	12938887	Os02g0322700	T	C	Non-synonymous substitution	Hypothetical protein.
+2	12938982	Os02g0322700	A	G	Non-synonymous substitution	Hypothetical protein.
+2	12939633	Os02g0322750	T	G	Non-synonymous substitution	Hypothetical protein.
+2	12940864	Os02g0322750	T	G	Non-synonymous substitution	Hypothetical protein.
+2	12941035	Os02g0322750	A	G	Non-synonymous substitution	Hypothetical protein.
+2	12941043	Os02g0322750	A	G	Non-synonymous substitution	Hypothetical protein.
+2	12950585	Os02g0322900	A	G	Non-synonymous substitution	Hypothetical protein.
+2	12999594	Os02g0323600	T	G	Non-synonymous substitution	Similar to Cytochrome P450-like protein.
+2	22388043	Os02g0566500	A	G	Non-synonymous substitution	Protein of unknown function DUF1644 family protein.
+2	22388079	Os02g0566500	T	C	Non-synonymous substitution	Protein of unknown function DUF1644 family protein.
+2	22388268	Os02g0566500	T	C	Non-synonymous substitution	Protein of unknown function DUF1644 family protein.
+2	22445100	Os02g0567700	T	C	Stop codon disrupted	Hypothetical protein.
+2	22466683	Os02g0568100	T	A	Non-synonymous substitution	Similar to Non-phototropic hypocotyl 3.
+2	27943417	Os02g0666400	T	C	Non-synonymous substitution	Hypothetical protein.
+2	27970247	Os02g0666900	G	C	Non-synonymous substitution	zinc finger, C3HC4 type domain containing protein, expressed
+2	27999130	Os02g0667801	T	C	Stop codon disrupted	Hypothetical protein.
+2	28043838	Os02g0668900	T	C	Non-synonymous substitution	GDSL-like lipase/acylhydrolase, putative, expressed
+2	28052978	Os02g0669100	C	T	Non-synonymous substitution	Dehydrin family protein.
+2	28076100	Os02g0669700	A	T	Non-synonymous substitution	RNA-binding region RNP-1 (RNA recognition motif) domain containing protein.
+2	28091767	Os02g0669900	A	G	Non-synonymous substitution	Protein of unknown function DUF632 domain containing protein.
+2	28127095	Os02g0670700	G	T	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+2	28136530	Os02g0671100	A	G	Non-synonymous substitution	Protein of unknown function DUF295 family protein.
+2	28149222	Os02g0671200	G	A	Non-synonymous substitution	Conserved hypothetical protein.
+2	28260279	Os02g0672800	A	C	Non-synonymous substitution	Similar to Protein kinase.
+2	28306969	Os02g0673500	A	C	Non-synonymous substitution	Basic helix-loop-helix dimerisation region bHLH domain containing protein.
+2	28615662	Os02g0678800	A	G	Non-synonymous substitution	Similar to Transcription activator.
+2	28624772	Os02g0679200	C	A	Non-synonymous substitution	Tetratricopeptide-like helical domain containing protein.
+2	28626533	Os02g0679300	A	G	Non-synonymous substitution	Hypothetical protein.
+2	28692116	Os02g0681100	A	G	Non-synonymous substitution	Protein of unknown function DUF604 family protein.
+2	31529902	Os02g0734600	T	G	Non-synonymous substitution	Similar to EFA27 for EF hand, abscisic acid, 27kD.
+2	31533574	Os02g0734666	A	G	Non-synonymous substitution	RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.
+2	31533654	Os02g0734666	A	G	Non-synonymous substitution	RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.
+2	31534563	Os02g0734732	A	C	Non-synonymous substitution	Hypothetical protein.
+2	31534567	Os02g0734732	T	C	Non-synonymous substitution	Hypothetical protein.
+2	31535575	Os02g0734732	G	C	Non-synonymous substitution	Hypothetical protein.
+2	31545685	Os02g0734900	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	31548603	Os02g0735000	A	G	Non-synonymous substitution	expressed protein
+2	31550766	Os02g0735000	G	A	Non-synonymous substitution	expressed protein
+2	31562116	Os02g0735200	T	C	Non-synonymous substitution	Glutamine synthetase shoot isozyme (EC 6.3.1.2) (Glutamate--ammonia ligase) (Clone lambda-GS28).
+2	31570513	Os02g0735300	G	C	Non-synonymous substitution	Hypothetical protein.
+2	31586025	Os02g0735800	T	C	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+2	31624037	Os02g0736300	T	C	Non-synonymous substitution	Membrane attack complex component/perforin/complement C9 family protein.
+2	31787679	Os02g0739400	A	C	Non-synonymous substitution	Similar to Avr9/Cf-9 rapidly elicited protein 231 precursor.
+2	31897317	Os02g0741400	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+2	32016068	Os02g0742900	A	G	Non-synonymous substitution	Similar to Kinesin-like protein.
+2	32124556	Os02g0744700	T	C	Non-synonymous substitution	Similar to Starch synthase isoform zSTSII-2 (EC 2.4.1.21).
+2	32178678	Os02g0745600	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+2	32182823	Os02g0745600	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+2	32277421	Os02g0747300	A	G	Non-synonymous substitution	expressed protein
+2	32457362	Os02g0751201	C	G	Non-synonymous substitution	Hypothetical protein.
+2	32457485	Os02g0751201	T	C	Non-synonymous substitution	Hypothetical protein.
+2	32472119	Os02g0751450	C	T	Non-synonymous substitution	Hypothetical protein.
+2	32481445	Os02g0751700	T	A	Non-synonymous substitution	expressed protein
+2	32551714	Os02g0753000	G	A	Non-synonymous substitution	Similar to Trehalose-6-phosphate phosphatase.
+2	32583925	Os02g0753700	A	G	Non-synonymous substitution	VQ domain containing protein.
+2	32583936	Os02g0753700	T	C	Non-synonymous substitution	VQ domain containing protein.
+2	32661806	Os02g0755200	A	G	Non-synonymous substitution	Similar to FLOWERING LOCUS D (Fragment).
+2	32752046	Os02g0757400	T	C	Non-synonymous substitution	peptide transporter like protein, putative, expressed
+2	32752423	Os02g0757400	A	G	Non-synonymous substitution	peptide transporter like protein, putative, expressed
+2	32752481	Os02g0757400	T	C	Non-synonymous substitution	peptide transporter like protein, putative, expressed
+2	32752618	Os02g0757400	A	C	Non-synonymous substitution	peptide transporter like protein, putative, expressed
+2	32787387	Os02g0757600	A	G	Non-synonymous substitution	hypothetical protein
+2	32787393	Os02g0757600	T	C	Non-synonymous substitution	hypothetical protein
+2	32817031	Os02g0758100	T	C	Non-synonymous substitution	LMBR1-like conserved region domain containing protein.
+2	32886234	Os02g0759900	G	C	Non-synonymous substitution	Conserved hypothetical protein.
+2	32975592	Os02g0761900	A	C	Non-synonymous substitution	Dimethylmenaquinone methyltransferase family protein.
+2	32985496	Os02g0762200	A	G	Non-synonymous substitution	Zinc finger, CCHC-type domain containing protein.
+2	33019759	Os02g0762800	A	C	Non-synonymous substitution	DEAD/DEAH box helicase, N-terminal domain containing protein.
+2	33021330	Os02g0762800	T	C	Non-synonymous substitution	DEAD/DEAH box helicase, N-terminal domain containing protein.
+2	33065936	Os02g0763800	A	G	Non-synonymous substitution	Xyloglucan fucosyltransferase family protein.
+2	33080259	Os02g0764200	G	A	Non-synonymous substitution	Similar to Xyloglucan fucosyltransferase-like [Oryza sativa (japonica cultivar-group)].
+2	33091862	Os02g0764700	A	T	Non-synonymous substitution	Similar to Ethylene-responsive transcription factor 4 (Ethylene-responsive element binding factor 4) (Related to APETALA-2 protein 5) (EREBP-4) (AtERF4).
+3	375926	Os03g0106800	A	G	Non-synonymous substitution	Beta-expansin precursor (Beta-expansin OsEXPB10).
+3	376490	Os03g0106800	A	G	Non-synonymous substitution	Beta-expansin precursor (Beta-expansin OsEXPB10).
+3	1685796	Os03g0130100	A	C	Non-synonymous substitution	Similar to Acyl-activating enzyme 11.
+3	1735568	Os03g0130800	T	G	Non-synonymous substitution	Bromodomain containing protein.
+3	1758591	Os03g0131100	T	C	Non-synonymous substitution	Plant regulator RWP-RK domain containing protein.
+3	1865882	Os03g0133600	C	T	Non-synonymous substitution	Similar to Adenosine monophosphate binding protein 1 AMPBP1.
+3	9697727	Os03g0281800	T	C	Non-synonymous substitution	Similar to Sulfated surface glycoprotein 185 precursor (SSG 185).
+3	9759061	Os03g0283000	C	T	Non-synonymous substitution	Similar to In2-1 protein.
+3	9818180	Os03g0284100	T	C	Non-synonymous substitution	Two-component response regulator-like PRR73 (Pseudo-response regulator 73) (OsPRR73).
+3	9832613	Os03g0284400	A	C	Non-synonymous substitution	Similar to Ribosomal protein L10-like.
+3	9833048	Os03g0284400	T	G	Non-synonymous substitution	Similar to Ribosomal protein L10-like.
+3	9858418	Os03g0285000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	9858421	Os03g0285000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	9858454	Os03g0285000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	9858503	Os03g0285000	C	T	Non-synonymous substitution	Hypothetical protein.
+3	9858505	Os03g0285000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	9858523	Os03g0285000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	9858556	Os03g0285000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	9863504	Os03g0285066	T	C	Non-synonymous substitution	Reverse transcriptase, RNA-dependent DNA polymerase family protein.
+3	9863579	Os03g0285066	A	G	Non-synonymous substitution	Reverse transcriptase, RNA-dependent DNA polymerase family protein.
+3	9863583	Os03g0285066	G	A	Premature	Reverse transcriptase, RNA-dependent DNA polymerase family protein.
+3	9864723	Os03g0285066	C	T	Non-synonymous substitution	Reverse transcriptase, RNA-dependent DNA polymerase family protein.
+3	9865803	Os03g0285066	T	C	Non-synonymous substitution	Reverse transcriptase, RNA-dependent DNA polymerase family protein.
+3	9865869	Os03g0285066	T	C	Non-synonymous substitution	Reverse transcriptase, RNA-dependent DNA polymerase family protein.
+3	9867447	Os03g0285066	A	G	Non-synonymous substitution	Reverse transcriptase, RNA-dependent DNA polymerase family protein.
+3	9911219	Os03g0286100	T	C	Non-synonymous substitution	expressed protein
+3	9911242	Os03g0286100	A	G	Non-synonymous substitution	expressed protein
+3	9911383	Os03g0286100	A	G	Non-synonymous substitution	expressed protein
+3	9911468	Os03g0286100	T	C	Non-synonymous substitution	expressed protein
+3	9914754	Os03g0286200	A	G	Non-synonymous substitution	Similar to Prephenate dehydratase-like.
+3	9928026	Os03g0286400	C	T	Non-synonymous substitution	expressed protein
+3	9956120	Os03g0287100	A	G	Non-synonymous substitution	Phosphatidylinositol transfer protein family protein.
+3	9980653	Os03g0287600	T	C	Stop codon disrupted	Hypothetical protein.
+3	10052351	Os03g0288900	T	A	Non-synonymous substitution	Conserved hypothetical protein.
+3	10090177	Os03g0289800	A	G	Non-synonymous substitution	Similar to Leucoanthocyanidin dioxygenase-like protein.
+3	10215564	Os03g0292100	A	G	Non-synonymous substitution	Protein phosphatase 2C family protein.
+3	10224688	Os03g0292200	A	G	Non-synonymous substitution	Mitochondrial substrate carrier family protein.
+3	12671447	Os03g0339400	A	G	Non-synonymous substitution	Haem peroxidase, plant/fungal/bacterial family protein.
+3	12721172	Os03g0340300	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	12742998	Os03g0340700	T	G	Non-synonymous substitution	Tetratricopeptide-like helical domain containing protein.
+3	12747938	Os03g0340900	A	G	Non-synonymous substitution	Similar to RSH1.
+3	12747944	Os03g0340900	A	G	Non-synonymous substitution	Similar to RSH1.
+3	12773673	Os03g0341200	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	12773719	Os03g0341200	C	T	Non-synonymous substitution	Conserved hypothetical protein.
+3	12835766	Os03g0343100	T	A	Non-synonymous substitution	Hypothetical protein.
+3	21646600	Os03g0573000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	21646726	Os03g0573000	T	C	Non-synonymous substitution	Hypothetical protein.
+3	21654894	Os03g0573100	A	C	Non-synonymous substitution	OsMADS86 - MADS-box family gene with M-gamma type-box, expressed
+3	21658506	Os03g0573200	T	G	Non-synonymous substitution	Hypothetical protein.
+3	21675640	Os03g0573500	A	C	Non-synonymous substitution	Disease resistance protein family protein.
+3	21697311	Os03g0574100	A	G	Non-synonymous substitution	Hypothetical protein.
+3	21708525	Os03g0574300	A	G	Non-synonymous substitution	Hypothetical protein.
+3	21714138	Os03g0574400	A	G	Met codon disrupted	Hypothetical protein.
+3	21715212	Os03g0574400	G	A	Non-synonymous substitution	Hypothetical protein.
+3	21840374	Os03g0576400	G	A	Non-synonymous substitution	Similar to 26S proteasome subunit RPN6a (Fragment).
+3	23316565	Os03g0602700	G	A	Non-synonymous substitution	Hypothetical protein.
+3	23322136	Os03g0602800	T	C	Non-synonymous substitution	Hypothetical protein.
+3	23363455	Os03g0603300	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	23564117	Os03g0606700	A	G	Non-synonymous substitution	Hypothetical protein.
+3	23607133	Os03g0607600	T	C	Non-synonymous substitution	Similar to Cyclin.
+3	23750915	Os03g0609800	A	C	Non-synonymous substitution	BTB domain containing protein.
+3	23752294	Os03g0609800	C	G	Non-synonymous substitution	BTB domain containing protein.
+3	23752472	Os03g0609800	G	A	Non-synonymous substitution	BTB domain containing protein.
+3	23781561	Os03g0610001	T	C	Splicing site disrupted	Hypothetical protein.
+3	23782818	Os03g0610200	T	G	Non-synonymous substitution	expressed protein
+3	23792466	Os03g0610301	G	A	Non-synonymous substitution	Hypothetical protein.
+3	23792493	Os03g0610301	A	G	Non-synonymous substitution	Hypothetical protein.
+3	23806518	Os03g0610600	T	C	Non-synonymous substitution	EBNA-1, putative, expressed
+3	23810070	Os03g0610650	T	C	Non-synonymous substitution	Proteinase inhibitor I4, serpin family protein.
+3	23949561	Os03g0614000	A	C	Non-synonymous substitution	Hypothetical protein.
+3	23962381	Os03g0614000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	23966009	Os03g0614000	T	G	Non-synonymous substitution	Hypothetical protein.
+3	23970402	Os03g0614000	G	T	Non-synonymous substitution	Hypothetical protein.
+3	23975008	Os03g0614300	T	A	Non-synonymous substitution	Hypothetical protein.
+3	23975436	Os03g0614300	A	G	Non-synonymous substitution	Hypothetical protein.
+3	23976144	Os03g0614300	T	C	Non-synonymous substitution	Hypothetical protein.
+3	23982067	Os03g0614500	C	A	Non-synonymous substitution	expressed protein
+3	23988503	Os03g0614200	C	G	Non-synonymous substitution	Hypothetical protein.
+3	24006837	Os03g0614600	A	T	Non-synonymous substitution	Hypothetical protein.
+3	24006903	Os03g0614600	A	G	Non-synonymous substitution	Hypothetical protein.
+3	24061339	Os03g0615800	C	G	Non-synonymous substitution	Hypothetical protein.
+3	24062141	Os03g0615800	A	G	Non-synonymous substitution	Hypothetical protein.
+3	24062792	Os03g0615800	T	C	Non-synonymous substitution	Hypothetical protein.
+3	24190405	Os03g0617700	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	24255642	Os03g0619600	A	G	Non-synonymous substitution	Transcriptional factor B3 family protein.
+3	24280627	Os03g0620250	A	C	Non-synonymous substitution	Hypothetical protein.
+3	24306137	Os03g0620800	G	A	Non-synonymous substitution	Similar to SEC1-family transport protein SLY1 (AtSLY1).
+3	24307056	Os03g0620800	C	G	Non-synonymous substitution	Similar to SEC1-family transport protein SLY1 (AtSLY1).
+3	24315807	Os03g0621250	T	C	Non-synonymous substitution	Hypothetical protein.
+3	24336483	Os03g0621600	T	C	Non-synonymous substitution	Transcriptional factor B3 family protein.
+3	24348032	Os03g0621700	C	T	Non-synonymous substitution	Conserved hypothetical protein.
+3	24464354	Os03g0624000	A	G	Non-synonymous substitution	Similar to CDPK substrate protein 1.
+3	24478991	Os03g0624400	T	C	Non-synonymous substitution	Hypothetical protein.
+3	24481260	Os03g0624400	A	C	Non-synonymous substitution	Hypothetical protein.
+3	24515004	Os03g0624900	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	24547739	Os03g0625400	T	G	Non-synonymous substitution	Hypothetical protein.
+3	24790851	Os03g0629600	A	G	Non-synonymous substitution	Hypothetical protein.
+3	24856192	Os03g0630950	A	G	Non-synonymous substitution	Hypothetical protein.
+3	24856468	Os03g0630950	G	A	Splicing site disrupted	Hypothetical protein.
+3	25217697	Os03g0638300	T	C	Non-synonymous substitution	Tesmin/TSO1-like, CXC domain containing protein.
+3	25392868	Os03g0640200	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	25520692	Os03g0642600	T	G	Non-synonymous substitution	OsWAK27 - OsWAK receptor-like protein kinase, expressed
+3	25520693	Os03g0642600	T	A	Non-synonymous substitution	OsWAK27 - OsWAK receptor-like protein kinase, expressed
+3	25523017	Os03g0642600	A	C	Non-synonymous substitution	OsWAK27 - OsWAK receptor-like protein kinase, expressed
+3	25605404	Os03g0644100	T	C	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+3	25626334	Os03g0644600	T	G	Non-synonymous substitution	expressed protein
+3	25720445	Os03g0645900	A	G	Non-synonymous substitution	Carotenoid oxygenase family protein.
+3	25763442	Os03g0646200	T	G	Non-synonymous substitution	Protein of unknown function DUF860, plant family protein.
+3	25767029	Os03g0646300	T	C	Non-synonymous substitution	Similar to Cyclic nucleotide-gated channel A (Fragment).
+3	25815686	Os03g0647100	G	C	Non-synonymous substitution	Hypothetical protein.
+3	25826861	Os03g0647500	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	25856959	Os03g0647800	C	T	Non-synonymous substitution	Conserved hypothetical protein.
+3	25877441	Os03g0648300	A	G	Non-synonymous substitution	IQ calmodulin-binding region domain containing protein.
+3	29326969	Os03g0708500	A	G	Non-synonymous substitution	Peptidylprolyl isomerase, FKBP-type domain containing protein.
+3	29335571	Os03g0708700	G	A	Non-synonymous substitution	Protein of unknown function DUF593 family protein.
+3	29336988	Os03g0708700	G	C	Non-synonymous substitution	Protein of unknown function DUF593 family protein.
+3	29337291	Os03g0708700	A	G	Non-synonymous substitution	Protein of unknown function DUF593 family protein.
+3	29393078	Os03g0710000	T	C	Non-synonymous substitution	Protein of unknown function DUF292, eukaryotic domain containing protein.
+3	29922933	Os03g0719500	T	C	Non-synonymous substitution	Similar to Ser-Thr protein kinase-like protein.
+3	29972650	Os03g0720400	A	C	Non-synonymous substitution	Protein of unknown function DUF295 family protein.
+3	30051576	Os03g0721800	T	A	Non-synonymous substitution	Hypothetical protein.
+3	30063357	Os03g0722100	G	A	Non-synonymous substitution	Conserved hypothetical protein.
+3	30138194	Os03g0723201	T	C	Non-synonymous substitution	Hypothetical protein.
+3	30298096	Os03g0726200	A	G	Non-synonymous substitution	Similar to Hydroxyproline-rich glycoprotein DZ-HRGP precursor.
+3	30306517	Os03g0726300	C	T	Non-synonymous substitution	Protein of unknown function DUF221 domain containing protein.
+3	30308631	Os03g0726300	T	G	Non-synonymous substitution	Protein of unknown function DUF221 domain containing protein.
+3	30308651	Os03g0726300	C	T	Non-synonymous substitution	Protein of unknown function DUF221 domain containing protein.
+3	30342154	Os03g0726700	A	G	Non-synonymous substitution	expressed protein
+3	30480292	Os03g0727900	A	G	Non-synonymous substitution	GTP-binding protein, HSR1-related domain containing protein.
+3	30483337	Os03g0727900	G	A	Non-synonymous substitution	GTP-binding protein, HSR1-related domain containing protein.
+3	30518480	Os03g0728700	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	30563570	Os03g0729300	G	C	Non-synonymous substitution	Thioredoxin-like fold domain containing protein.
+3	30593273	Os03g0729700	A	G	Non-synonymous substitution	Protein of unknown function DUF558 family protein.
+3	30601114	Os03g0729800	A	G	Non-synonymous substitution	Amino acid-binding ACT domain containing protein.
+3	30637879	Os03g0730500	A	C	Stop codon disrupted	Peptidase S10, serine carboxypeptidase family protein.
+3	30677626	Os03g0730900	A	G	Non-synonymous substitution	Hypothetical protein.
+3	30677834	Os03g0730900	A	C	Non-synonymous substitution	Hypothetical protein.
+3	30677900	Os03g0730900	T	C	Non-synonymous substitution	Hypothetical protein.
+3	30713206	Os03g0731800	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	30716834	Os03g0731900	A	G	Non-synonymous substitution	Similar to Isopentenyl/dimethylallyl diphosphate synthase (Fragment).
+3	30721521	Os03g0732000	A	C	Non-synonymous substitution	Similar to Isopentenyl/dimethylallyl diphosphate synthase (Fragment).
+3	30943704	Os03g0736200	T	G	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+3	31030420	Os03g0738100	A	G	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+3	31030945	Os03g0738100	T	G	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+3	31031260	Os03g0738100	A	G	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+3	31034342	Os03g0738100	A	G	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+3	31035324	Os03g0738100	T	A	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+3	31040870	Os03g0738100	G	A	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+3	31041800	Os03g0738100	T	C	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+3	31060753	Os03g0738300	C	G	Non-synonymous substitution	Hypothetical protein.
+3	31119214	Os03g0740100	A	C	Non-synonymous substitution	expressed protein
+3	31162603	Os03g0740833	T	G	Non-synonymous substitution	Hypothetical protein.
+3	31212505	Os03g0742001	A	C	Non-synonymous substitution	Hypothetical protein.
+3	31212535	Os03g0742001	A	C	Non-synonymous substitution	Hypothetical protein.
+3	31212568	Os03g0742001	C	T	Non-synonymous substitution	Hypothetical protein.
+3	31212570	Os03g0742001	T	G	Non-synonymous substitution	Hypothetical protein.
+3	31212581	Os03g0742001	C	T	Non-synonymous substitution	Hypothetical protein.
+3	31236228	Os03g0742766	G	C	Non-synonymous substitution	Hypothetical protein.
+3	31308270	Os03g0744200	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	31322230	Os03g0744501	T	C	Non-synonymous substitution	Hypothetical protein.
+3	31324807	Os03g0744600	T	C	Non-synonymous substitution	Similar to Ripening-associated protein (Fragment).
+3	31339107	Os03g0744650	T	C	Non-synonymous substitution	WD40-like domain containing protein.
+3	31377664	Os03g0745200	T	C	Non-synonymous substitution	Transferase family protein.
+3	31388925	Os03g0745301	T	C	Non-synonymous substitution	Hypothetical protein.
+3	31409210	Os03g0745800	T	C	Non-synonymous substitution	Hypothetical protein.
+3	31425066	Os03g0746200	C	G	Non-synonymous substitution	expressed protein
+3	31454880	Os03g0746600	T	A	Non-synonymous substitution	WD40-like domain containing protein.
+3	31504530	Os03g0747400	A	C	Non-synonymous substitution	Seed maturation protein domain containing protein.
+3	31516501	Os03g0747600	A	G	Non-synonymous substitution	Zinc finger, FYVE/PHD-type domain containing protein.
+3	31517602	Os03g0747600	T	C	Non-synonymous substitution	Zinc finger, FYVE/PHD-type domain containing protein.
+3	31535223	Os03g0747900	T	C	Non-synonymous substitution	Similar to Myosin heavy chain class XI E1 protein.
+3	31542460	Os03g0748000	T	G	Non-synonymous substitution	YT521-B-like protein family protein.
+3	31542461	Os03g0748000	T	C	Non-synonymous substitution	YT521-B-like protein family protein.
+3	31550808	Os03g0748050	A	G	Non-synonymous substitution	Hypothetical protein.
+3	31550880	Os03g0748050	T	C	Non-synonymous substitution	Hypothetical protein.
+3	31574561	Os03g0748700	T	C	Non-synonymous substitution	Iron hydrogenase domain containing protein.
+3	31667452	Os03g0750100	T	C	Non-synonymous substitution	Tetratricopeptide-like helical domain containing protein.
+3	31678063	Os03g0750200	T	G	Non-synonymous substitution	Kinesin, motor region domain containing protein.
+3	31678742	Os03g0750200	A	C	Non-synonymous substitution	Kinesin, motor region domain containing protein.
+3	31792032	Os03g0752700	G	A	Non-synonymous substitution	Heat shock protein DnaJ, N-terminal domain containing protein.
+3	31823182	Os03g0753300	T	C	Non-synonymous substitution	Hypothetical protein.
+3	31849621	Os03g0753600	A	C	Non-synonymous substitution	Chromo domain containing protein.
+3	31849784	Os03g0753600	T	C	Non-synonymous substitution	Chromo domain containing protein.
+3	32139773	Os03g0757050	C	T	Non-synonymous substitution	conserved hypothetical protein
+3	32148284	Os03g0757300	T	C	Non-synonymous substitution	Hypothetical protein.
+3	32199780	Os03g0758300	C	T	Non-synonymous substitution	Similar to Cyclic nucleotide-gated ion channel 2 (AtCNGC2) (Cyclic nucleotide-and calmodulin-regulated ion channel 2) (DEFENSE NO DEATH 1).
+3	32200925	Os03g0758300	C	T	Non-synonymous substitution	Similar to Cyclic nucleotide-gated ion channel 2 (AtCNGC2) (Cyclic nucleotide-and calmodulin-regulated ion channel 2) (DEFENSE NO DEATH 1).
+3	32207883	Os03g0758400	C	A	Non-synonymous substitution	Ankyrin repeat containing protein.
+3	32394579	Os03g0762700	G	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	32400993	Os03g0762850	T	C	Non-synonymous substitution	Hypothetical protein.
+3	32532083	Os03g0765100	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	32534375	Os03g0765200	G	C	Non-synonymous substitution	Similar to Signal peptidase I (Leader peptidase I).
+3	32570883	Os03g0765800	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	32700509	Os03g0769200	A	G	Non-synonymous substitution	expressed protein
+3	32712694	Os03g0769600	A	G	Non-synonymous substitution	ResB-like family protein.
+3	32804070	Os03g0771100	T	C	Non-synonymous substitution	Myb, DNA-binding domain containing protein.
+3	32816341	Os03g0771500	T	A	Non-synonymous substitution	Knotted1-type homeobox protein OSH43.
+3	32826907	Os03g0771900	T	A	Premature	Hypothetical protein.
+3	32860290	Os03g0772600	A	G	Non-synonymous substitution	Similar to Lectin-like receptor kinase 7;2.
+3	32860581	Os03g0772600	T	C	Stop codon disrupted	Similar to Lectin-like receptor kinase 7;2.
+3	32864019	Os03g0772700	T	C	Non-synonymous substitution	legume lectins beta domain containing protein, expressed
+3	32865101	Os03g0772700	A	G	Non-synonymous substitution	legume lectins beta domain containing protein, expressed
+3	33016572	Os03g0775700	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	33020357	Os03g0775800	A	G	Non-synonymous substitution	OsFBX110 - F-box domain containing protein, expressed
+3	33233404	Os03g0780900	T	C	Non-synonymous substitution	Protein of unknown function DUF858, methyltransferase-like family protein.
+3	33247285	Os03g0781400	A	T	Non-synonymous substitution	Ribose 5-phosphate isomerase family protein.
+3	33321644	Os03g0783300	A	T	Non-synonymous substitution	DNA topoisomerase IV subunit A, putative, expressed
+3	33322214	Os03g0783300	A	G	Non-synonymous substitution	DNA topoisomerase IV subunit A, putative, expressed
+3	33336346	Os03g0783600	T	C	Non-synonymous substitution	Hypothetical protein.
+3	33533646	Os03g0786900	C	A	Non-synonymous substitution	Tetratricopeptide-like helical domain containing protein.
+3	33648845	Os03g0789100	T	G	Non-synonymous substitution	VQ domain containing protein, putative, expressed
+3	33748730	Os03g0791200	T	C	Non-synonymous substitution	Similar to Aldehyde oxidase-2.
+3	33795343	Os03g0791900	A	G	Non-synonymous substitution	Hypothetical protein.
+3	33958970	Os03g0795900	T	G	Non-synonymous substitution	Similar to Heat shock transcription factor 31 (Fragment).
+3	34047760	Os03g0797000	T	C	Non-synonymous substitution	Similar to Indole synthase.
+3	34154690	Os03g0798900	C	G	Non-synonymous substitution	Hypothetical protein.
+3	34167577	Os03g0799200	T	C	Non-synonymous substitution	Protein of unknown function DUF593 family protein.
+3	34167856	Os03g0799200	T	C	Non-synonymous substitution	Protein of unknown function DUF593 family protein.
+3	34169524	Os03g0799200	A	C	Non-synonymous substitution	Protein of unknown function DUF593 family protein.
+3	34186637	Os03g0799700	T	C	Non-synonymous substitution	GTP1/OBG subdomain containing protein.
+3	34236530	Os03g0800400	T	G	Non-synonymous substitution	Protein of unknown function DUF1618 domain containing protein.
+3	34250207	Os03g0800800	A	G	Non-synonymous substitution	SMAD/FHA domain containing protein.
+3	34292655	Os03g0801800	A	G	Non-synonymous substitution	RNA-binding region RNP-1 (RNA recognition motif) domain containing protein.
+3	34334629	Os03g0802500	G	A	Non-synonymous substitution	AAA ATPase domain containing protein.
+3	34384475	Os03g0803700	A	G	Non-synonymous substitution	Hypothetical protein.
+3	34384476	Os03g0803700	A	C	Non-synonymous substitution	Hypothetical protein.
+3	34399871	Os03g0803900	T	C	Non-synonymous substitution	Galectin, galactose-binding lectin family protein.
+3	34400455	Os03g0803900	A	G	Non-synonymous substitution	Galectin, galactose-binding lectin family protein.
+3	34430392	Os03g0804400	A	T	Non-synonymous substitution	Conserved hypothetical protein.
+3	34432121	Os03g0804400	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	34433423	Os03g0804400	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+3	34444712	Os03g0804800	T	G	Non-synonymous substitution	Similar to Cct8-prov protein.
+3	34478543	Os03g0805400	A	T	Non-synonymous substitution	Acid phosphatase/vanadium-dependent haloperoxidase family protein.
+3	34545183	Os03g0806500	C	A	Non-synonymous substitution	Thioredoxin domain 2 containing protein.
+3	34757017	Os03g0810100	A	G	Non-synonymous substitution	Similar to TRNA isopentenyl transferase-like protein (Adenylate isopentenyltransferase) (EC 2.5.1.27).
+3	34757447	Os03g0810100	T	C	Non-synonymous substitution	Similar to TRNA isopentenyl transferase-like protein (Adenylate isopentenyltransferase) (EC 2.5.1.27).
+3	34786890	Os03g0810700	A	G	Stop codon disrupted	mitochondrial Rho GTPase 1, putative, expressed
+3	34814752	Os03g0811200	A	G	Non-synonymous substitution	BRCT domain containing protein.
+3	34825622	Os03g0811400	G	C	Non-synonymous substitution	Basic helix-loop-helix dimerisation region bHLH domain containing protein.
+3	34923919	Os03g0813200	C	A	Non-synonymous substitution	Similar to Nucleolin.
+3	34924047	Os03g0813200	C	T	Non-synonymous substitution	Similar to Nucleolin.
+3	34935353	Os03g0813600	A	T	Non-synonymous substitution	Hypothetical protein.
+3	34944393	Os03g0813800	T	G	Non-synonymous substitution	Hypothetical protein.
+3	34945934	Os03g0813800	A	G	Non-synonymous substitution	Hypothetical protein.
+3	34949402	Os03g0813900	A	C	Non-synonymous substitution	Hypothetical protein.
+3	34995191	Os03g0814800	C	T	Non-synonymous substitution	Antihaemostatic protein domain containing protein.
+3	35052482	Os03g0816000	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	35081823	Os03g0816400	C	T	Non-synonymous substitution	GTP-binding protein, HSR1-related domain containing protein.
+3	35217594	Os03g0818900	C	T	Non-synonymous substitution	Hypothetical protein.
+3	35217621	Os03g0818900	G	T	Non-synonymous substitution	Hypothetical protein.
+3	35222528	Os03g0819000	A	G	Non-synonymous substitution	Hypothetical protein.
+3	35222976	Os03g0819000	T	C	Non-synonymous substitution	Hypothetical protein.
+3	35230612	Os03g0819100	A	T	Non-synonymous substitution	Peptidase M1, membrane alanine aminopeptidase family protein.
+3	35232612	Os03g0819100	T	C	Non-synonymous substitution	Peptidase M1, membrane alanine aminopeptidase family protein.
+3	35268653	Os03g0820100	T	A	Non-synonymous substitution	Similar to Auxin-resistance protein AXR1.
+3	35342864	Os03g0821633	T	C	Non-synonymous substitution	RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.
+3	35343107	Os03g0821633	A	G	Non-synonymous substitution	RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.
+3	35343142	Os03g0821633	T	C	Non-synonymous substitution	RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.
+3	35346931	Os03g0821700	A	C	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+3	35425737	Os03g0823500	T	C	Non-synonymous substitution	TGF-beta receptor, type I/II extracellular region family protein.
+3	35429477	Os03g0823600	T	C	Non-synonymous substitution	Hypothetical protein.
+3	35545941	Os03g0825900	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+3	35597742	Os03g0827100	T	C	Non-synonymous substitution	Hypothetical protein.
+3	35597937	Os03g0827100	T	C	Non-synonymous substitution	Hypothetical protein.
+3	35598190	Os03g0827100	C	G	Non-synonymous substitution	Hypothetical protein.
+3	35599799	Os03g0827100	A	G	Non-synonymous substitution	Hypothetical protein.
+3	35603940	Os03g0827200	A	G	Non-synonymous substitution	Hypothetical protein.
+3	35657647	Os03g0828600	T	G	Non-synonymous substitution	Sodium/hydrogen exchanger family protein.
+3	35749819	Os03g0830900	A	G	Non-synonymous substitution	Lipase, class 3 family protein.
+3	35775487	Os03g0831500	T	C	Non-synonymous substitution	Similar to Phosphoribosylformylglycinamidine cyclo-ligase, chloroplast/mitochondrial precursor (EC 6.3.3.1) (AIRS) (Phosphoribosyl-aminoimidazole synthetase) (AIR synthase) (VUpur5).
+4	21615066	Os04g0434300	A	T	Non-synonymous substitution	Protein of unknown function UPF0004 family protein.
+4	21615651	Os04g0434300	G	A	Non-synonymous substitution	Protein of unknown function UPF0004 family protein.
+4	21619678	Os04g0434400	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+4	21649268	Os04g0434800	A	C	Non-synonymous substitution	Similar to Thylakoid-bound ascorbate peroxidase (EC 1.11.1.11) (Fragment).
+4	21921457	Os04g0440100	A	G	Non-synonymous substitution	Nonsense-mediated decay UPF3 domain containing protein.
+4	21921536	Os04g0440100	C	T	Non-synonymous substitution	Nonsense-mediated decay UPF3 domain containing protein.
+4	21928862	Os04g0440200	C	G	Non-synonymous substitution	OsFBX134 - F-box domain containing protein, expressed
+4	21990183	Os04g0441600	A	T	Non-synonymous substitution	AIG1, putative, expressed
+4	27491469	Os04g0541400	A	G	Non-synonymous substitution	Hypothetical protein.
+4	27491500	Os04g0541400	A	C	Non-synonymous substitution	Hypothetical protein.
+4	27491693	Os04g0541400	T	G	Non-synonymous substitution	Hypothetical protein.
+4	27492956	Os04g0541400	T	C	Non-synonymous substitution	Hypothetical protein.
+4	27492961	Os04g0541400	A	G	Non-synonymous substitution	Hypothetical protein.
+4	27512023	Os04g0541500	T	C	Non-synonymous substitution	Diacylglycerol kinase, catalytic region domain containing protein.
+4	27553716	Os04g0542200	C	T	Non-synonymous substitution	Similar to Iron-phytosiderophore transporter protein yellow stripe 1.
+4	27609350	Os04g0543500	G	C	Non-synonymous substitution	Homeodomain-like containing protein.
+4	27613270	Os04g0543600	T	G	Non-synonymous substitution	Amino acid/polyamine transporter I family protein.
+4	27643072	Os04g0544100	A	T	Non-synonymous substitution	Similar to SET domain-containing protein SET104.
+4	27659414	Os04g0544500	G	T	Non-synonymous substitution	Similar to Similarities with spP40209 Saccharomyces cerevisiae YMR136w GAT2.
+4	27735974	Os04g0545700	T	C	Non-synonymous substitution	Transferase family protein.
+4	27753579	Os04g0546300	A	G	Non-synonymous substitution	Similar to GMPK2=PROTEIN kinase.
+4	27771320	Os04g0546800	G	A	Non-synonymous substitution	Pathogenesis-related transcriptional factor and ERF domain containing protein.
+4	27825402	Os04g0547900	G	A	Non-synonymous substitution	Anti-sense to fibroblast growth factor protein GFG family protein.
+4	27832646	Os04g0548100	G	A	Non-synonymous substitution	Disease resistance protein family protein.
+4	27866825	Os04g0548500	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+4	27884947	Os04g0548901	C	T	Non-synonymous substitution	Hypothetical protein.
+4	27895093	Os04g0549300	A	G	Non-synonymous substitution	Similar to GA protein (Fragment).
+4	27905492	Os04g0549600	C	T	Non-synonymous substitution	Heat shock protein DnaJ family protein.
+4	27927899	Os04g0550100	T	C	Non-synonymous substitution	expressed protein
+4	28016072	Os04g0551500	A	C	Non-synonymous substitution	SBP domain containing protein.
+4	28036019	Os04g0551700	A	G	Non-synonymous substitution	PAP fibrillin family protein.
+4	28065243	Os04g0552400	A	G	Non-synonymous substitution	Similar to ZPT2-13.
+4	28065293	Os04g0552400	T	C	Non-synonymous substitution	Similar to ZPT2-13.
+4	28089590	Os04g0553000	T	C	Non-synonymous substitution	Protein of unknown function DUF140 domain containing protein.
+4	28124739	Os04g0554000	A	G	Non-synonymous substitution	trehalose phosphatase, putative, expressed
+4	28151971	Os04g0554800	A	G	Non-synonymous substitution	Similar to RCc3 protein.
+4	28257661	Os04g0556800	A	G	Non-synonymous substitution	expressed protein
+4	28271291	Os04g0557100	A	T	Non-synonymous substitution	Hypothetical protein.
+4	28271324	Os04g0557100	A	G	Non-synonymous substitution	Hypothetical protein.
+4	28271373	Os04g0557100	A	G	Non-synonymous substitution	Hypothetical protein.
+4	28271785	Os04g0557100	G	C	Non-synonymous substitution	Hypothetical protein.
+4	28281111	Os04g0557200	C	G	Non-synonymous substitution	Similar to Anthocyanin regulatory B protein (Fragment).
+4	28331062	Os04g0557500	G	C	Non-synonymous substitution	Similar to Transcriptional activator Ra homolog (Fragment).
+4	28416714	Os04g0559200	C	T	Non-synonymous substitution	Conserved hypothetical protein.
+4	28416781	Os04g0559200	G	C	Non-synonymous substitution	Conserved hypothetical protein.
+4	28428049	Os04g0559400	T	G	Non-synonymous substitution	Similar to Branched-chain-amino-acid aminotransferase 5, chloroplast precursor (EC 2.6.1.42) (Atbcat-5).
+4	28431654	Os04g0559550	A	T	Non-synonymous substitution	Hypothetical protein.
+4	28537300	Os04g0562100	T	C	Non-synonymous substitution	Amino acid/polyamine transporter II family protein.
+4	28595627	Os04g0563200	G	A	Non-synonymous substitution	Hypothetical protein.
+4	28608652	Os04g0563500	A	C	Non-synonymous substitution	RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.
+4	28609321	Os04g0563500	T	C	Non-synonymous substitution	RNA-directed DNA polymerase (Reverse transcriptase) domain containing protein.
+4	28659964	Os04g0563900	T	G	Non-synonymous substitution	Protein kinase-like domain containing protein.
+4	28659982	Os04g0563900	A	G	Non-synonymous substitution	Protein kinase-like domain containing protein.
+4	28698889	Os04g0564700	G	C	Non-synonymous substitution	Quinonprotein alcohol dehydrogenase-like domain containing protein.
+4	29119194	Os04g0570600	C	G	Non-synonymous substitution	Cytochrome P450 family protein.
+4	29152244	Os04g0571300	A	G	Non-synonymous substitution	Cyclin-like F-box domain containing protein.
+4	29171964	Os04g0571600	C	G	Non-synonymous substitution	Multi antimicrobial extrusion protein MatE family protein.
+4	29187493	Os04g0571800	A	C	Non-synonymous substitution	Zinc finger, RING-type domain containing protein.
+5	8851015	Os05g0244900	A	G	Non-synonymous substitution	expressed protein
+5	8900972	Os05g0246800	A	G	Non-synonymous substitution	expressed protein
+5	8959935	Os05g0247500	A	T	Non-synonymous substitution	Glycoside hydrolase, family 18 protein.
+5	8966443	Os05g0247700	A	G	Non-synonymous substitution	expressed protein
+5	9063995	Os05g0248901	C	G	Non-synonymous substitution	Hypothetical protein.
+5	9120019	Os05g0250101	C	T	Non-synonymous substitution	Protein of unknown function DUF1618 domain containing protein.
+5	9395383	Os05g0255000	T	C	Non-synonymous substitution	Hypothetical protein.
+5	14396008	Os05g0313700	C	T	Non-synonymous substitution	Conserved hypothetical protein.
+5	16607807	Os05g0351700	T	C	Non-synonymous substitution	Hypothetical protein.
+5	16652391	Os05g0352800	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+5	16667872	Os05g0353300	T	A	Non-synonymous substitution	Pentatricopeptide repeat containing protein.
+5	16677652	Os05g0353400	T	C	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+5	16711033	Os05g0353901	A	G	Non-synonymous substitution	Hypothetical protein.
+5	16718878	Os05g0354000	C	T	Non-synonymous substitution	Hypothetical protein.
+5	16791485	Os05g0354800	A	G	Stop codon disrupted	Hypothetical protein.
+5	16898561	Os05g0357100	T	C	Non-synonymous substitution	3'-5' exonuclease domain containing protein.
+5	17045536	Os05g0358900	A	C	Non-synonymous substitution	expressed protein
+5	17050048	Os05g0358900	T	C	Non-synonymous substitution	expressed protein
+5	17066222	Os05g0359100	A	G	Non-synonymous substitution	Hypothetical protein.
+5	17084402	Os05g0359400	A	G	Non-synonymous substitution	Hypothetical protein.
+5	18200852	Os05g0378300	C	G	Non-synonymous substitution	Hypothetical protein.
+5	18200853	Os05g0378300	T	C	Non-synonymous substitution	Hypothetical protein.
+5	18431445	Os05g0381301	T	G	Non-synonymous substitution	Hypothetical protein.
+5	18471024	Os05g0381900	T	G	Non-synonymous substitution	Protein of unknown function DUF594 family protein.
+5	18471030	Os05g0381900	A	G	Non-synonymous substitution	Protein of unknown function DUF594 family protein.
+5	18516339	Os05g0383100	T	G	Non-synonymous substitution	Clathrin adaptor complex, medium chain family protein.
+5	18598647	Os05g0384800	G	C	Non-synonymous substitution	Similar to Chromosome condensation regulator protein (Fragment).
+5	18648186	Os05g0385700	A	G	Non-synonymous substitution	Hypothetical protein.
+5	18735857	Os05g0386900	A	C	Non-synonymous substitution	Reticulon family protein.
+5	18777552	Os05g0387900	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+5	18815755	Os05g0388900	A	G	Non-synonymous substitution	Hypothetical protein.
+5	18853783	Os05g0389500	T	G	Non-synonymous substitution	Endonuclease/exonuclease/phosphatase domain containing protein.
+5	20604932	Os05g0420200	A	G	Non-synonymous substitution	Protein of unknown function DUF179 family protein.
+5	20775670	Os05g0423701	A	G	Non-synonymous substitution	Glycoside hydrolase, family 9 protein.
+5	20824033	Os05g0424900	A	C	Non-synonymous substitution	Protein of unknown function DUF630 domain containing protein.
+5	20902789	Os05g0426300	T	C	Non-synonymous substitution	Protein of unknown function DUF231, plant domain containing protein.
+5	22806224	Os05g0463400	G	A	Non-synonymous substitution	PWWP domain containing protein.
+5	22806851	Os05g0463400	A	C	Stop codon disrupted	PWWP domain containing protein.
+5	22814667	Os05g0463600	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+5	22832828	Os05g0464000	G	C	Non-synonymous substitution	Hypothetical protein.
+5	22860850	Os05g0464500	T	C	Non-synonymous substitution	Hypothetical protein.
+5	22900210	Os05g0465400	A	G	Non-synonymous substitution	Protein of unknown function DUF1218 family protein.
+5	22929667	Os05g0466300	C	T	Non-synonymous substitution	Hypothetical protein.
+5	22969911	Os05g0467000	A	C	Non-synonymous substitution	Similar to Calcium-dependent protein kinase.
+5	22993228	Os05g0467500	T	C	Non-synonymous substitution	Hypothetical protein.
+5	22996562	Os05g0467550	T	C	Non-synonymous substitution	Hypothetical protein.
+5	23004931	Os05g0467600	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+5	23007515	Os05g0467700	C	T	Non-synonymous substitution	Protein of unknown function DUF1618 domain containing protein.
+5	23016609	Os05g0467900	G	A	Non-synonymous substitution	expressed protein
+5	23016615	Os05g0467900	A	G	Non-synonymous substitution	expressed protein
+5	23021555	Os05g0468100	T	C	Non-synonymous substitution	Protein of unknown function DUF1618 domain containing protein.
+5	23024911	Os05g0468200	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+5	25396373	Os05g0511400	A	G	Non-synonymous substitution	Similar to Protein kinase GhCLK1 (Fragment).
+5	25695284	Os05g0516900	T	C	Non-synonymous substitution	Protein of unknown function DUF300 family protein.
+5	25825335	Os05g0519100	T	C	Non-synonymous substitution	Hypothetical protein.
+5	25839211	Os05g0519300	T	C	Non-synonymous substitution	Protein of unknown function DUF506, plant family protein.
+5	25846081	Os05g0519400	T	C	Non-synonymous substitution	Similar to N-ethylmaleimide sensitive factor NSF (Fragment).
+5	25848823	Os05g0519400	T	C	Non-synonymous substitution	Similar to N-ethylmaleimide sensitive factor NSF (Fragment).
+5	25852771	Os05g0519500	A	G	Non-synonymous substitution	WD40-like domain containing protein.
+5	25853938	Os05g0519500	T	C	Non-synonymous substitution	WD40-like domain containing protein.
+5	25854142	Os05g0519500	T	A	Non-synonymous substitution	WD40-like domain containing protein.
+5	25854358	Os05g0519500	T	A	Non-synonymous substitution	WD40-like domain containing protein.
+5	25868115	Os05g0519700	A	G	Non-synonymous substitution	Heat shock protein 101.
+5	25999944	Os05g0521400	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+5	26025581	Os05g0521900	A	C	Non-synonymous substitution	IQ calmodulin-binding region domain containing protein.
+5	26081351	Os05g0522500	G	A	Non-synonymous substitution	Similar to Hexokinase 1 (EC 2.7.1.1).
+6	7643586	Os06g0247200	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+6	7736759	Os06g0248900	T	G	Non-synonymous substitution	expressed protein
+6	7772188	Os06g0249700	T	G	Non-synonymous substitution	OsFBX194 - F-box domain containing protein, expressed
+6	7784744	Os06g0250640	G	A	Non-synonymous substitution	Hypothetical protein.
+6	7784747	Os06g0250640	A	G	Non-synonymous substitution	Hypothetical protein.
+6	28671719	Os06g0670500	T	C	Non-synonymous substitution	Similar to Multidomain cyclophilin type peptidyl-prolyl cis-trans isomerase.
+6	28722283	Os06g0671300	G	C	Non-synonymous substitution	Cytochrome P450 family protein.
+7	365093	Os07g0106500	A	T	Non-synonymous substitution	Hypothetical protein.
+7	381647	Os07g0106850	C	T	Non-synonymous substitution	Hypothetical protein.
+7	441025	Os07g0108200	T	C	Non-synonymous substitution	Multi antimicrobial extrusion protein MatE family protein.
+7	467281	Os07g0108800	A	G	Non-synonymous substitution	Similar to Calcium-activated outward-rectifying potassium channel 1 (AtKCO1).
+7	519999	Os07g0109400	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+7	552805	Os07g0110000	G	A	Non-synonymous substitution	Hypothetical protein.
+7	664810	Os07g0111700	A	G	Non-synonymous substitution	Flavin-containing monooxygenase FMO family protein.
+7	664844	Os07g0111700	T	C	Non-synonymous substitution	Flavin-containing monooxygenase FMO family protein.
+7	664888	Os07g0111700	G	T	Non-synonymous substitution	Flavin-containing monooxygenase FMO family protein.
+7	664920	Os07g0111700	C	G	Non-synonymous substitution	Flavin-containing monooxygenase FMO family protein.
+7	664925	Os07g0111700	A	G	Non-synonymous substitution	Flavin-containing monooxygenase FMO family protein.
+7	673380	Os07g0111900	C	A	Non-synonymous substitution	Flavin-containing monooxygenase FMO family protein.
+7	676845	Os07g0112000	A	C	Non-synonymous substitution	Similar to Dimethylaniline monooxygenase-like protein.
+7	677149	Os07g0112000	A	G	Non-synonymous substitution	Similar to Dimethylaniline monooxygenase-like protein.
+7	677368	Os07g0112000	A	T	Non-synonymous substitution	Similar to Dimethylaniline monooxygenase-like protein.
+7	685356	Os07g0112100	A	C	Non-synonymous substitution	Similar to Dimethylaniline monooxygenase-like protein.
+7	689201	Os07g0112300	T	C	Non-synonymous substitution	Hypothetical protein.
+7	689384	Os07g0112350	A	G	Stop codon disrupted	Hypothetical protein.
+7	691073	Os07g0112400	A	C	Non-synonymous substitution	3'-5' exonuclease domain containing protein.
+7	691226	Os07g0112400	A	C	Non-synonymous substitution	3'-5' exonuclease domain containing protein.
+7	693110	Os07g0112400	A	G	Non-synonymous substitution	3'-5' exonuclease domain containing protein.
+7	693138	Os07g0112400	C	G	Non-synonymous substitution	3'-5' exonuclease domain containing protein.
+7	726267	Os07g0113300	T	C	Splicing site disrupted	expressed protein
+7	727745	Os07g0113300	T	C	Non-synonymous substitution	expressed protein
+7	727829	Os07g0113300	A	G	Non-synonymous substitution	expressed protein
+7	727840	Os07g0113300	G	A	Non-synonymous substitution	expressed protein
+7	743078	Os07g0113500	A	G	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+7	839532	Os07g0115300	T	G	Non-synonymous substitution	Similar to Peroxidase2 precursor (EC 1.11.1.7).
+7	839533	Os07g0115300	T	C	Non-synonymous substitution	Similar to Peroxidase2 precursor (EC 1.11.1.7).
+7	841052	Os07g0115400	T	C	Non-synonymous substitution	Leucine-rich repeat, typical subtype containing protein.
+7	852717	Os07g0115600	C	T	Non-synonymous substitution	expressed protein
+7	869641	Os07g0115700	A	C	Non-synonymous substitution	Protein of unknown function DUF594 family protein.
+7	869992	Os07g0115700	A	C	Non-synonymous substitution	Protein of unknown function DUF594 family protein.
+7	870478	Os07g0115700	T	C	Non-synonymous substitution	Protein of unknown function DUF594 family protein.
+7	895994	Os07g0116300	A	G	Non-synonymous substitution	expressed protein
+7	957839	Os07g0117700	A	C	Non-synonymous substitution	Hypothetical protein.
+7	964203	Os07g0117900	T	C	Non-synonymous substitution	Hypothetical protein.
+7	972179	Os07g0118200	C	G	Non-synonymous substitution	Protein of unknown function DUF538 family protein.
+7	975739	Os07g0118250	C	T	Non-synonymous substitution	Protein of unknown function DUF538 family protein.
+7	3298374	Os07g0160801	T	G	Non-synonymous substitution	expressed protein
+7	3323523	Os07g0161600	T	G	Non-synonymous substitution	Similar to Calmodulin-domain protein kinase CDPK isoform 2 (Calmodulin-domain protein kinase CDPK isoform 2; 13089-15758) (Calcium-dependent protein kinase isoform 2).
+7	3361760	Os07g0162300	T	C	Non-synonymous substitution	Similar to RIO kinase.
+7	3372415	Os07g0162450	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+7	3384610	Os07g0162700	T	C	Non-synonymous substitution	Esterase/lipase/thioesterase domain containing protein.
+7	3462224	Os07g0164000	C	A	Non-synonymous substitution	Double-stranded RNA binding domain containing protein.
+7	3462779	Os07g0164000	G	A	Splicing site disrupted	Double-stranded RNA binding domain containing protein.
+7	26192959	Os07g0618600	G	A	Non-synonymous substitution	Zinc finger, FYVE-type domain containing protein.
+7	26294592	Os07g0620100	G	A	Non-synonymous substitution	caltractin, putative, expressed
+7	26297632	Os07g0620200	T	C	Non-synonymous substitution	Heat shock protein DnaJ, N-terminal domain containing protein.
+7	26306911	Os07g0620400	C	T	Non-synonymous substitution	Similar to GTP-binding protein-like.
+7	26387798	Os07g0622200	G	T	Non-synonymous substitution	Similar to M-160-u1_1 (Fragment).
+8	537673	Os08g0110200	C	T	Non-synonymous substitution	Similar to Fertility restorer.
+8	564002	Os08g0110700	T	G	Non-synonymous substitution	DDHD domain containing protein.
+8	639993	Os08g0112000	T	C	Non-synonymous substitution	Protein of unknown function DUF889, eukaryote family protein.
+8	639994	Os08g0112000	G	A	Non-synonymous substitution	Protein of unknown function DUF889, eukaryote family protein.
+8	639999	Os08g0112000	A	G	Non-synonymous substitution	Protein of unknown function DUF889, eukaryote family protein.
+8	640555	Os08g0112000	C	T	Non-synonymous substitution	Protein of unknown function DUF889, eukaryote family protein.
+8	682994	Os08g0112800	A	C	Non-synonymous substitution	Rickettsia 17 kDa surface antigen family protein.
+8	685395	Os08g0112900	T	C	Non-synonymous substitution	Lipolytic enzyme, G-D-S-L family protein.
+8	720229	Os08g0113400	A	C	Non-synonymous substitution	Methyltransferase type 11 domain containing protein.
+8	2154641	Os08g0138600	C	G	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+8	2205414	Os08g0139650	A	T	Non-synonymous substitution	expressed protein
+8	2206845	Os08g0139650	A	C	Non-synonymous substitution	expressed protein
+8	23804860	Os08g0480000	C	A	Non-synonymous substitution	Multi antimicrobial extrusion protein MatE family protein.
+8	24016722	Os08g0484400	A	T	Non-synonymous substitution	Bacterial Fmu (Sun)/eukaryotic nucleolar NOL1/Nop2p domain containing protein.
+8	24072058	Os08g0485300	T	C	Non-synonymous substitution	expressed protein
+8	24072085	Os08g0485300	G	A	Premature	expressed protein
+8	24128912	Os08g0486200	A	C	Non-synonymous substitution	Similar to Splicing factor SC35.
+9	12349156	Os09g0360500	A	G	Non-synonymous substitution	Very-long-chain 3-ketoacyl-CoA synthase family protein.
+9	12452100	Os09g0362500	A	G	Non-synonymous substitution	Peptidase M1, membrane alanine aminopeptidase family protein.
+9	12500840	Os09g0363400	T	G	Non-synonymous substitution	expressed protein
+9	12500896	Os09g0363400	A	G	Non-synonymous substitution	expressed protein
+9	12825111	Os09g0369101	T	C	Non-synonymous substitution	Hypothetical protein.
+9	12902140	Os09g0370366	T	C	Non-synonymous substitution	succinate dehydrogenase and fumarate reductase iron-sulfur protein, expressed
+9	12902899	Os09g0370366	A	G	Met codon disrupted	succinate dehydrogenase and fumarate reductase iron-sulfur protein, expressed
+9	12962339	Os09g0371100	C	G	Non-synonymous substitution	transporter, putative, expressed
+9	12992127	Os09g0371700	A	G	Non-synonymous substitution	Zinc finger, RING-type domain containing protein.
+9	13001121	Os09g0372000	T	G	Non-synonymous substitution	Hypothetical protein.
+9	13021491	Os09g0372500	T	C	Non-synonymous substitution	expressed protein
+9	13021644	Os09g0372500	T	C	Non-synonymous substitution	expressed protein
+9	13023854	Os09g0372550	C	G	Non-synonymous substitution	Hypothetical protein.
+9	13081295	Os09g0373400	G	A	Non-synonymous substitution	RNA recognition motif containing protein, putative, expressed
+9	13082286	Os09g0373400	T	G	Non-synonymous substitution	RNA recognition motif containing protein, putative, expressed
+9	13111935	Os09g0374000	T	C	Non-synonymous substitution	Hypothetical protein.
+9	13112046	Os09g0374000	T	C	Non-synonymous substitution	Hypothetical protein.
+9	13141918	Os09g0374900	C	T	Non-synonymous substitution	Strictosidine synthase family protein.
+9	13144427	Os09g0374900	A	G	Non-synonymous substitution	Strictosidine synthase family protein.
+9	13156137	Os09g0375200	T	C	Non-synonymous substitution	expressed protein
+9	13156191	Os09g0375200	T	C	Non-synonymous substitution	expressed protein
+9	13160468	Os09g0375300	T	G	Non-synonymous substitution	Protein of unknown function DUF231, plant domain containing protein.
+9	13194821	Os09g0376000	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	13234114	Os09g0376600	T	G	Non-synonymous substitution	Protein kinase domain containing protein.
+9	13272113	Os09g0376900	T	C	Non-synonymous substitution	Similar to Potassium transporter 13 (AtPOT13) (AtKT5).
+9	13290528	Os09g0377400	C	G	Non-synonymous substitution	expressed protein
+9	13329314	Os09g0378100	A	C	Non-synonymous substitution	mov34/MPN/PAD-1 family protein, expressed
+9	15447698	Os09g0414500	A	G	Non-synonymous substitution	Similar to ZF-HD homeobox protein.
+9	15549373	Os09g0416300	A	C	Non-synonymous substitution	expressed protein
+9	15606578	Os09g0417300	A	G	Non-synonymous substitution	Hypothetical protein.
+9	16060658	Os09g0424700	T	C	Non-synonymous substitution	Hypothetical protein.
+9	16061822	Os09g0424700	T	C	Non-synonymous substitution	Hypothetical protein.
+9	16080527	Os09g0425400	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	16119222	Os09g0426500	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	16119606	Os09g0426500	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	16215866	Os09g0428233	T	C	Splicing site disrupted	Hypothetical protein.
+9	16215892	Os09g0428233	A	G	Splicing site disrupted	Hypothetical protein.
+9	16237380	Os09g0428900	C	A	Non-synonymous substitution	Similar to Conserved protein.
+9	16268153	Os09g0429400	A	G	Non-synonymous substitution	GPCR, family 3, metabotropic glutamate receptor-like protein.
+9	16306948	Os09g0429932	A	G	Non-synonymous substitution	expressed protein
+9	16421657	Os09g0431200	T	A	Non-synonymous substitution	GPCR, family 3, metabotropic glutamate receptor-like protein.
+9	16422116	Os09g0431200	T	G	Non-synonymous substitution	GPCR, family 3, metabotropic glutamate receptor-like protein.
+9	16546202	Os09g0432900	A	G	Non-synonymous substitution	Glycosyl transferase, family 31 protein.
+9	16546458	Os09g0432900	T	C	Non-synonymous substitution	Glycosyl transferase, family 31 protein.
+9	16589505	Os09g0433900	A	G	Non-synonymous substitution	Similar to Alanine aminotransferase 2 (EC 2.6.1.2) (GPT) (Glutamic--pyruvic transaminase 2) (Glutamic--alanine transaminase 2) (ALAAT-2).
+9	16610184	Os09g0434400	T	C	Met codon disrupted	Hypothetical protein.
+9	16615154	Os09g0434500	A	G	Non-synonymous substitution	Similar to Ethylene response factor 2.
+9	16693142	Os09g0436200	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	16694128	Os09g0436300	T	C	Non-synonymous substitution	Peptidase, trypsin-like serine and cysteine domain containing protein.
+9	16860754	Os09g0438200	A	G	Non-synonymous substitution	Hypothetical protein.
+9	16887600	Os09g0438600	T	C	Stop codon disrupted	Hypothetical protein.
+9	16956706	Os09g0439700	A	C	Non-synonymous substitution	Lung seven transmembrane receptor family protein.
+9	17862289	Os09g0456700	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	17881861	Os09g0456800	A	C	Non-synonymous substitution	Similar to Heat stress transcription factor Spl7 (Heat shock transcription factor) (Heat shock factor RHSF10).
+9	17882125	Os09g0456800	T	A	Non-synonymous substitution	Similar to Heat stress transcription factor Spl7 (Heat shock transcription factor) (Heat shock factor RHSF10).
+9	17959310	Os09g0457866	A	G	Non-synonymous substitution	Hypothetical protein.
+9	18004906	Os09g0459200	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	18075372	Os09g0460500	A	C	Non-synonymous substitution	Esterase/lipase/thioesterase domain containing protein.
+9	18075824	Os09g0460500	T	A	Non-synonymous substitution	Esterase/lipase/thioesterase domain containing protein.
+9	18126240	Os09g0462300	A	G	Non-synonymous substitution	Esterase/lipase/thioesterase domain containing protein.
+9	18834374	Os09g0474966	C	T	Non-synonymous substitution	Hypothetical protein.
+9	18863257	Os09g0475400	T	A	Non-synonymous substitution	Basic helix-loop-helix dimerisation region bHLH domain containing protein.
+9	18867692	Os09g0475400	T	G	Non-synonymous substitution	Basic helix-loop-helix dimerisation region bHLH domain containing protein.
+9	18882887	Os09g0475700	A	T	Non-synonymous substitution	Peptidase S9A, prolyl oligopeptidase family protein.
+9	18892115	Os09g0476000	A	G	Non-synonymous substitution	Prefoldin domain containing protein.
+9	18903740	Os09g0476300	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	18986633	Os09g0478400	T	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	19005985	Os09g0478600	G	A	Non-synonymous substitution	RINGv domain containing protein.
+9	19195021	Os09g0482600	T	C	Non-synonymous substitution	Hypothetical protein.
+9	19195119	Os09g0482600	G	A	Non-synonymous substitution	Hypothetical protein.
+9	19195983	Os09g0482620	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	20245574	Os09g0506200	T	G	Stop codon disrupted	Leucine-rich repeat 2 containing protein.
+9	20391086	Os09g0509000	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	20393781	Os09g0509000	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	20429123	Os09g0509500	A	T	Non-synonymous substitution	Esterase/lipase/thioesterase domain containing protein.
+9	20435886	Os09g0509600	A	G	Non-synonymous substitution	Hypothetical protein.
+9	20435890	Os09g0509600	A	C	Non-synonymous substitution	Hypothetical protein.
+9	20508985	Os09g0510900	C	T	Non-synonymous substitution	Leucine-rich repeat 2 containing protein.
+9	20611066	Os09g0512900	G	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	20652782	Os09g0513700	A	G	Non-synonymous substitution	RNA-binding region RNP-1 (RNA recognition motif) domain containing protein.
+9	20785062	Os09g0516700	C	T	Non-synonymous substitution	Protein of unknown function DUF936, plant family protein.
+9	20868274	Os09g0518000	G	C	Non-synonymous substitution	UDP-glucuronosyl/UDP-glucosyltransferase family protein.
+9	20883631	Os09g0518400	T	C	Non-synonymous substitution	UDP-glucuronosyl/UDP-glucosyltransferase family protein.
+9	20884838	Os09g0518400	T	C	Non-synonymous substitution	UDP-glucuronosyl/UDP-glucosyltransferase family protein.
+9	20887507	Os09g0518400	A	G	Non-synonymous substitution	UDP-glucuronosyl/UDP-glucosyltransferase family protein.
+9	20887519	Os09g0518400	A	G	Non-synonymous substitution	UDP-glucuronosyl/UDP-glucosyltransferase family protein.
+9	20927601	Os09g0519200	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	21092326	Os09g0520800	T	C	Non-synonymous substitution	Glycoside hydrolase, family 29 (alpha-L-fucosidase) protein.
+9	21100835	Os09g0521000	A	C	Non-synonymous substitution	FAE1/Type III polyketide synthase-like protein domain containing protein.
+9	21128615	Os09g0521800	C	T	Non-synonymous substitution	uncharacterized membrane protein, putative, expressed
+9	21247887	Os09g0522500	T	C	Non-synonymous substitution	Hypothetical protein.
+9	21256070	Os09g0522800	T	A	Non-synonymous substitution	Protein of unknown function DUF1618 domain containing protein.
+9	21263164	Os09g0523100	A	G	Met codon disrupted	Hypothetical protein.
+9	21271558	Os09g0523300	T	C	Non-synonymous substitution	expressed protein
+9	21317474	Os09g0524600	A	C	Non-synonymous substitution	Hypothetical protein.
+9	21318442	Os09g0524500	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	21451256	Os09g0527100	T	A	Non-synonymous substitution	Similar to RNA-binding protein.
+9	21607065	Os09g0530300	A	C	Non-synonymous substitution	Cytochrome P450 family protein.
+9	21607081	Os09g0530300	A	G	Non-synonymous substitution	Cytochrome P450 family protein.
+9	21644389	Os09g0531200	G	T	Non-synonymous substitution	RNA recognition motif 2 domain containing protein.
+9	21644538	Os09g0531200	G	C	Non-synonymous substitution	RNA recognition motif 2 domain containing protein.
+9	21689174	Os09g0531800	C	G	Non-synonymous substitution	Glycosyl transferase, family 8 protein.
+9	21696648	Os09g0531900	G	C	Non-synonymous substitution	Similar to Glycosyltransferase QUASIMODO1 (EC 2.4.1.-).
+9	21715424	Os09g0532300	G	A	Non-synonymous substitution	Hypothetical protein.
+9	21729468	Os09g0532700	T	G	Non-synonymous substitution	Alpha/beta hydrolase family protein.
+9	21782079	Os09g0533400	C	T	Non-synonymous substitution	Peptidase S16, ATP-dependent protease La family protein.
+9	21791475	Os09g0533532	T	C	Non-synonymous substitution	Hypothetical protein.
+9	21811127	Os09g0533900	T	C	Non-synonymous substitution	Similar to CEL5=CELLULASE 5 (Fragment).
+9	21832765	Os09g0534401	A	G	Met codon disrupted	Hypothetical protein.
+9	21835887	Os09g0534500	T	C	Non-synonymous substitution	Hypothetical protein.
+9	21835904	Os09g0534500	A	G	Non-synonymous substitution	Hypothetical protein.
+9	21847453	Os09g0534600	A	C	Non-synonymous substitution	Similar to Heat shock protein 82.
+9	21878704	Os09g0535200	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	21878707	Os09g0535200	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	21878722	Os09g0535200	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	21930592	Os09g0536400	A	G	Non-synonymous substitution	Similar to Thaumatin-like protein 1 precursor.
+9	22006762	Os09g0538300	G	A	Non-synonymous substitution	Hypothetical protein.
+9	22111123	Os09g0540600	A	C	Splicing site disrupted	Similar to WD-40 repeat protein MSI1.
+9	22172163	Os09g0541900	A	T	Non-synonymous substitution	Similar to 26S proteasome subunit RPN3a.
+9	22207471	Os09g0542700	C	T	Non-synonymous substitution	Similar to UL36 very large tegument protein.
+9	22214134	Os09g0542800	T	C	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+9	22483713	Os09g0547700	T	C	Non-synonymous substitution	expressed protein
+9	22561186	Os09g0549400	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	22561258	Os09g0549400	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	22585179	Os09g0550000	T	C	Non-synonymous substitution	Bromodomain containing protein.
+9	22594940	Os09g0550200	A	T	Non-synonymous substitution	Hypothetical protein.
+9	22665983	Os09g0551350	G	A	Non-synonymous substitution	Hypothetical protein.
+9	22665995	Os09g0551350	C	G	Non-synonymous substitution	Hypothetical protein.
+9	22692598	Os09g0551800	A	G	Non-synonymous substitution	ATP-dependent helicase, DEAH-box family protein.
+9	22692599	Os09g0551800	A	C	Non-synonymous substitution	ATP-dependent helicase, DEAH-box family protein.
+9	22713074	Os09g0552200	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+9	22715110	Os09g0552300	C	T	Non-synonymous substitution	Protein kinase-like domain containing protein.
+9	22720519	Os09g0552400	T	C	Non-synonymous substitution	Cupin, RmlC-type domain containing protein.
+9	22792753	Os09g0554266	G	T	Non-synonymous substitution	Hypothetical protein.
+9	22870959	Os09g0555400	A	G	Non-synonymous substitution	Protein prenyltransferase domain containing protein.
+9	22922283	Os09g0555900	A	C	Non-synonymous substitution	expressed protein
+9	22925015	Os09g0556000	C	T	Non-synonymous substitution	Signal peptidase 22 kDa subunit family protein.
+9	22979066	Os09g0557200	A	G	Non-synonymous substitution	expressed protein
+9	22987141	Os09g0557400	A	G	Non-synonymous substitution	Mitochondrial glycoprotein family protein.
+9	23002385	Os09g0557800	A	G	Non-synonymous substitution	Similar to PHG1A protein.
+9	23047155	Os09g0558900	C	T	Non-synonymous substitution	Similar to NADPH-cytochrome P450 reductase (Fragment).
+9	23047496	Os09g0558900	A	C	Non-synonymous substitution	Similar to NADPH-cytochrome P450 reductase (Fragment).
+9	23049585	Os09g0558900	T	G	Non-synonymous substitution	Similar to NADPH-cytochrome P450 reductase (Fragment).
+9	23052642	Os09g0559000	T	C	Non-synonymous substitution	Zinc finger, RING-type domain containing protein.
+9	23054724	Os09g0559100	G	C	Non-synonymous substitution	Zinc finger, C6HC-type domain containing protein.
+9	23054747	Os09g0559100	C	G	Non-synonymous substitution	Zinc finger, C6HC-type domain containing protein.
+9	23054865	Os09g0559100	A	C	Non-synonymous substitution	Zinc finger, C6HC-type domain containing protein.
+9	23054914	Os09g0559100	A	C	Non-synonymous substitution	Zinc finger, C6HC-type domain containing protein.
+9	23055453	Os09g0559100	T	C	Non-synonymous substitution	Zinc finger, C6HC-type domain containing protein.
+9	23055889	Os09g0559100	T	C	Non-synonymous substitution	Zinc finger, C6HC-type domain containing protein.
+9	23056095	Os09g0559100	C	G	Non-synonymous substitution	Zinc finger, C6HC-type domain containing protein.
+9	23081482	Os09g0560000	G	T	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+9	23081633	Os09g0560000	C	T	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+9	23082494	Os09g0560000	C	T	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+9	23083529	Os09g0560000	A	G	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+9	23084584	Os09g0560000	C	T	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+9	23084956	Os09g0560000	T	C	Non-synonymous substitution	Armadillo-like helical domain containing protein.
+9	23092741	Os09g0560200	C	T	Non-synonymous substitution	Similar to 26S protease regulatory subunit 6B (MIP224) (MB67 interacting protein) (TAT-binding protein-7) (TBP-7). Splice isoform 2.
+9	23092759	Os09g0560200	C	G	Non-synonymous substitution	Similar to 26S protease regulatory subunit 6B (MIP224) (MB67 interacting protein) (TAT-binding protein-7) (TBP-7). Splice isoform 2.
+9	23100061	Os09g0560400	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+9	23110813	Os09g0560700	G	T	Non-synonymous substitution	MOSC, N-terminal beta barrel domain containing protein.
+9	23114361	Os09g0560800	A	C	Non-synonymous substitution	MOSC, N-terminal beta barrel domain containing protein.
+9	23149729	Os09g0561600	A	G	Non-synonymous substitution	EGF domain containing protein.
+9	23174443	Os09g0562400	T	C	Non-synonymous substitution	Similar to mutator-like transposase [Oryza sativa (japonica cultivar-group)].
+9	23174469	Os09g0562400	C	A	Premature	Similar to mutator-like transposase [Oryza sativa (japonica cultivar-group)].
+9	23174545	Os09g0562400	G	A	Non-synonymous substitution	Similar to mutator-like transposase [Oryza sativa (japonica cultivar-group)].
+9	23175431	Os09g0562400	T	C	Non-synonymous substitution	Similar to mutator-like transposase [Oryza sativa (japonica cultivar-group)].
+9	23182851	Os09g0562600	T	C	Non-synonymous substitution	EGF domain containing protein.
+9	23188205	Os09g0562750	A	G	Non-synonymous substitution	expressed protein
+9	23199694	Os09g0563200	A	G	Non-synonymous substitution	Similar to Potassium transporter 11 (AtPOT11).
+9	23221966	Os09g0563400	T	C	Non-synonymous substitution	subtilase, putative, expressed
+9	23251655	Os09g0563950	A	G	Non-synonymous substitution	Cyclin-like F-box domain containing protein.
+9	23284072	Os09g0564600	A	T	Non-synonymous substitution	Peptidase C1A, papain family protein.
+9	23336122	Os09g0565150	T	G	Non-synonymous substitution	Hypothetical protein.
+10	14218677	Os10g0405801	A	G	Non-synonymous substitution	Hypothetical protein.
+10	14254636	Os10g0406400	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+10	14275380	Os10g0406700	T	C	Non-synonymous substitution	Hypothetical protein.
+10	14291656	Os10g0407000	T	C	Non-synonymous substitution	Virulence factor, pectin lyase fold family protein.
+10	14528938	Os10g0409400	T	C	Non-synonymous substitution	Similar to Polygalacturonase isoenzyme 1 beta subunit precursor.
+10	14587344	Os10g0409900	A	G	Non-synonymous substitution	Cyclin-like F-box domain containing protein.
+10	14596661	Os10g0410100	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+10	14596677	Os10g0410100	G	A	Non-synonymous substitution	Conserved hypothetical protein.
+10	14599428	Os10g0410400	T	C	Non-synonymous substitution	Hypothetical protein.
+10	14618963	Os10g0410700	T	G	Non-synonymous substitution	Similar to SET domain protein 123.
+10	14619725	Os10g0410700	T	C	Non-synonymous substitution	Similar to SET domain protein 123.
+10	22304763	Os10g0555900	A	G	Non-synonymous substitution	Beta-expansin precursor.
+10	22350098	Os10g0556801	A	T	Non-synonymous substitution	CCR4-Not complex component, Not1 family protein.
+10	22350132	Os10g0556801	A	C	Non-synonymous substitution	CCR4-Not complex component, Not1 family protein.
+10	22489315	Os10g0559700	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+10	22540046	Os10g0560500	A	G	Non-synonymous substitution	Hypothetical protein.
+10	22593169	Os10g0561500	T	A	Non-synonymous substitution	Protein kinase-like domain containing protein.
+10	22608082	Os10g0561800	A	G	Non-synonymous substitution	homeodomain leucine zipper protein hox1 [Oryza sativa (japonica cultivar-group)].
+10	22623607	Os10g0562000	A	C	Non-synonymous substitution	Conserved hypothetical protein.
+10	22623661	Os10g0562000	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+10	22648489	Os10g0562600	T	C	Non-synonymous substitution	expressed protein
+10	22925249	Os10g0567000	T	C	Non-synonymous substitution	Camphor resistance CrcB protein family protein.
+10	22958028	Os10g0567700	T	C	Non-synonymous substitution	hypothetical protein
+10	22958043	Os10g0567700	A	G	Non-synonymous substitution	hypothetical protein
+10	22985900	Os10g0568200	A	G	Non-synonymous substitution	Chaperonin Cpn60/TCP-1 family protein.
+10	22986000	Os10g0568200	A	C	Non-synonymous substitution	Chaperonin Cpn60/TCP-1 family protein.
+10	22987664	Os10g0568300	A	G	Non-synonymous substitution	Protein of unknown function DUF828, plant family protein.
+10	22988420	Os10g0568300	A	G	Splicing site disrupted	Protein of unknown function DUF828, plant family protein.
+10	22989150	Os10g0568300	T	C	Non-synonymous substitution	Protein of unknown function DUF828, plant family protein.
+10	23004679	Os10g0568500	A	G	Non-synonymous substitution	expressed protein
+10	23004841	Os10g0568500	A	G	Non-synonymous substitution	expressed protein
+11	977911	Os11g0123000	A	G	Non-synonymous substitution	Hypothetical protein.
+11	2402763	Os11g0151600	G	A	Non-synonymous substitution	Similar to Schizosaccharomyces pombe (Fragment).
+11	2405977	Os11g0151700	C	T	Non-synonymous substitution	Similar to Purple acid phosphatase.
+11	2776053	Os11g0157600	T	C	Non-synonymous substitution	Similar to Timing of CAB expression 1.
+11	2920510	Os11g0160450	T	C	Non-synonymous substitution	Hypothetical protein.
+11	2949696	Os11g0160800	T	C	Non-synonymous substitution	Protein kinase-like domain containing protein.
+11	2956157	Os11g0161000	C	A	Non-synonymous substitution	NB-ARC domain containing protein.
+11	3005023	Os11g0161100	G	C	Non-synonymous substitution	Conserved hypothetical protein.
+11	3005151	Os11g0161100	A	G	Non-synonymous substitution	Conserved hypothetical protein.
+11	3005240	Os11g0161100	G	C	Non-synonymous substitution	Conserved hypothetical protein.
+11	3084976	Os11g0163600	T	C	Non-synonymous substitution	Tubby family protein.
+11	3227235	Os11g0167000	G	A	Non-synonymous substitution	expressed protein
+11	3229177	Os11g0167100	C	T	Non-synonymous substitution	Hypothetical protein.
+11	3237344	Os11g0167300	T	G	Non-synonymous substitution	Protein of unknown function DUF537 family protein.
+11	3249946	Os11g0167600	A	G	Non-synonymous substitution	Exo70 exocyst complex subunit family protein.
+11	3250187	Os11g0167600	A	G	Non-synonymous substitution	Exo70 exocyst complex subunit family protein.
+11	3285178	Os11g0168300	A	G	Non-synonymous substitution	Alba, DNA/RNA-binding protein family protein.
+11	3290948	Os11g0168500	A	G	Non-synonymous substitution	Similar to AP2 domain containing protein RAP2.6 (Fragment).
+11	15718991	Os11g0431700	C	T	Non-synonymous substitution	Similar to Serine carboxypeptidase.
+11	15738365	Os11g0431700	A	G	Non-synonymous substitution	Similar to Serine carboxypeptidase.
+11	15865142	Os11g0433800	G	A	Non-synonymous substitution	Protein of unknown function DUF635 family protein.
+11	15869147	Os11g0433900	C	G	Non-synonymous substitution	Similar to 60S ribosomal protein L38.
+11	15894767	Os11g0434500	A	G	Non-synonymous substitution	Hypothetical protein.
+11	15915598	Os11g0434900	T	C	Non-synonymous substitution	receptor-interacting serine/threonine-protein kinase 4, putative, expressed
+11	15915735	Os11g0434900	T	G	Non-synonymous substitution	receptor-interacting serine/threonine-protein kinase 4, putative, expressed
+11	15935522	Os11g0435200	G	C	Non-synonymous substitution	ankyrin repeat domain containing protein, expressed
+12	2228722	Os12g0145300	A	G	Non-synonymous substitution	Hypothetical protein.
+12	2236543	Os12g0145500	T	C	Non-synonymous substitution	Peptidylprolyl isomerase, FKBP-type domain containing protein.
+12	2304550	Os12g0147000	T	G	Non-synonymous substitution	Protein of unknown function DUF296 domain containing protein.
+12	2304877	Os12g0147000	A	G	Non-synonymous substitution	Protein of unknown function DUF296 domain containing protein.
+12	2410574	Os12g0148900	A	G	Non-synonymous substitution	Hypothetical protein.
+12	2744109	Os12g0155800	T	C	Non-synonymous substitution	expressed protein
+12	2970506	Os12g0159400	T	C	Non-synonymous substitution	Hypothetical protein.
+12	3137393	Os12g0162300	T	C	Non-synonymous substitution	Hypothetical protein.
+12	3252251	Os12g0163900	C	T	Non-synonymous substitution	Hypothetical protein.
+12	3253506	Os12g0163900	C	A	Non-synonymous substitution	Hypothetical protein.
+12	3256526	Os12g0164000	A	G	Non-synonymous substitution	Hypothetical protein.
+12	3256655	Os12g0164000	A	G	Non-synonymous substitution	Hypothetical protein.
+12	3257139	Os12g0164000	A	G	Non-synonymous substitution	Hypothetical protein.
+12	3293715	Os12g0164600	G	A	Non-synonymous substitution	Protein of unknown function DUF793 family protein.
+12	3317804	Os12g0165300	C	T	Non-synonymous substitution	Conserved hypothetical protein.
+12	3317805	Os12g0165300	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+12	3320991	Os12g0165400	C	G	Non-synonymous substitution	Concanavalin A-like lectin/glucanase domain containing protein.
+12	3352520	Os12g0166200	A	T	Non-synonymous substitution	Hypothetical protein.
+12	3356557	Os12g0166300	T	C	Non-synonymous substitution	citrate-binding protein precursor, putative, expressed
+12	3380008	Os12g0166600	T	G	Non-synonymous substitution	NBS-LRR disease resistance protein, putative, expressed
+12	3395329	Os12g0167300	A	G	Non-synonymous substitution	Hypothetical protein.
+12	3396713	Os12g0167300	A	G	Non-synonymous substitution	Hypothetical protein.
+12	3457500	Os12g0168400	A	G	Non-synonymous substitution	Similar to GFA2.
+12	3458716	Os12g0168400	A	G	Non-synonymous substitution	Similar to GFA2.
+12	3495303	Os12g0168800	T	C	Non-synonymous substitution	Similar to AG-motif binding protein-2.
+12	3515828	Os12g0169100	A	T	Premature	Protein of unknown function DUF869, plant family protein.
+12	3515829	Os12g0169100	A	C	Non-synonymous substitution	Protein of unknown function DUF869, plant family protein.
+12	3542388	Os12g0169600	T	C	Non-synonymous substitution	Conserved hypothetical protein.
+12	3798062	Os12g0174900	A	G	Non-synonymous substitution	Hypothetical protein.
+12	26901491	Os12g0624500	A	G	Non-synonymous substitution	expressed protein
+12	26911447	Os12g0624700	T	C	Non-synonymous substitution	expressed protein
+12	26934299	Os12g0625101	A	G	Stop codon disrupted	Protein of unknown function DUF889, eukaryote family protein.
+12	26944614	Os12g0625300	A	G	Non-synonymous substitution	Hypothetical protein.
+12	27044726	Os12g0626900	T	C	Non-synonymous substitution	Hypothetical protein.
+12	27626643	Os12g0638900	A	C	Non-synonymous substitution	Smr protein/MutS2 C-terminal domain containing protein.
+12	27636943	Os12g0639100	T	C	Non-synonymous substitution	Major facilitator superfamily MFS_1 protein.
+12	27658058	Os12g0639600	T	C	Non-synonymous substitution	Soluble quinoprotein glucose dehydrogenase domain containing protein.
+12	27677965	Os12g0640200	T	G	Non-synonymous substitution	cytochrome P450, putative, expressed
+12	27697417	Os12g0640600	G	A	Non-synonymous substitution	Similar to Crocetin dialdehyde.
+12	27702997	Os12g0640700	A	G	Non-synonymous substitution	N/apple PAN domain containing protein.
+12	27727063	Os12g0641100	T	C	Non-synonymous substitution	Sodium/hydrogen exchanger family protein.
+12	27744160	Os12g0641400	A	G	Non-synonymous substitution	Similar to Sucrose transporter.

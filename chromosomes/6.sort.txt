@@ -1,0 +1,8 @@
+Chr	POS	SNPName	process	trait	chr_index	color	chr_lgth
+6	7643586	Os06g0247200	A->G	Non-synonymous substitution	5	black	31248787
+6	7736759	Os06g0248900	T->G	Non-synonymous substitution	5	black	31248787
+6	7772188	Os06g0249700	T->G	Non-synonymous substitution	5	black	31248787
+6	7784744	Os06g0250640	G->A	Non-synonymous substitution	5	black	31248787
+6	7784747	Os06g0250640	A->G	Non-synonymous substitution	5	black	31248787
+6	28671719	Os06g0670500	T->C	Non-synonymous substitution	5	black	31248787
+6	28722283	Os06g0671300	G->C	Non-synonymous substitution	5	black	31248787

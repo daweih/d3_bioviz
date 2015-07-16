@@ -1,0 +1,18 @@
+Chr	POS	SNPName	process	trait	chr_index	color	chr_lgth
+8	537673	Os08g0110200	C->T	Non-synonymous substitution	7	black	28443022
+8	564002	Os08g0110700	T->G	Non-synonymous substitution	7	black	28443022
+8	639993	Os08g0112000	T->C	Non-synonymous substitution	7	black	28443022
+8	639994	Os08g0112000	G->A	Non-synonymous substitution	7	black	28443022
+8	639999	Os08g0112000	A->G	Non-synonymous substitution	7	black	28443022
+8	640555	Os08g0112000	C->T	Non-synonymous substitution	7	black	28443022
+8	682994	Os08g0112800	A->C	Non-synonymous substitution	7	black	28443022
+8	685395	Os08g0112900	T->C	Non-synonymous substitution	7	black	28443022
+8	720229	Os08g0113400	A->C	Non-synonymous substitution	7	black	28443022
+8	2154641	Os08g0138600	C->G	Non-synonymous substitution	7	black	28443022
+8	2205414	Os08g0139650	A->T	Non-synonymous substitution	7	black	28443022
+8	2206845	Os08g0139650	A->C	Non-synonymous substitution	7	black	28443022
+8	23804860	Os08g0480000	C->A	Non-synonymous substitution	7	black	28443022
+8	24016722	Os08g0484400	A->T	Non-synonymous substitution	7	black	28443022
+8	24072058	Os08g0485300	T->C	Non-synonymous substitution	7	black	28443022
+8	24072085	Os08g0485300	G->A	Premature	7	orange	28443022
+8	24128912	Os08g0486200	A->C	Non-synonymous substitution	7	black	28443022
