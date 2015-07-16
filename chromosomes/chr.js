@@ -140,8 +140,8 @@ function chr_figure(log) {
 					.on("click", function(){
 						d3.select('path#'+d.SNPName).attr("stroke", "red");
 						d3.select('text#'+d.SNPName).style("fill", "red");
-						d3.select('path#'+d.SNPName).remove();
-						d3.select('text#'+d.SNPName).remove();
+//						d3.select('path#'+d.SNPName).remove();
+//						d3.select('text#'+d.SNPName).remove();
 					});
 			}
 				
