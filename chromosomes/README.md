@@ -25,6 +25,8 @@ For more information about the author of this viz, visit:
 
 
 
+
+
 # 中文说明
 
 一个染色体的可视化，可以用来显示染色体上特定区域的注释信息，如QTL，基因等等。
@@ -37,7 +39,10 @@ For more information about the author of this viz, visit:
 
 通过浏览器来（chrome, safari, 还是 firefox 根据你的喜好）访问index.php这个文件即可见可视化。
 
+如果上面的步骤都成功了，你可以用自己的数据来替换 example_data 文件夹里的事例数据。
+
 图片的例子显示了水稻染色体的SNP，数据集来源于第一个参考文献。
+
 
 ## 参考文献
 - [Huang,X. et al. (2012) A map of rice genome variation reveals the origin of cultivated rice. Nature, 490, 497–501.](http://www.ncbi.nlm.nih.gov/pubmed/?term=23034647)
