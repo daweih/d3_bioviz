@@ -37,9 +37,9 @@ For more information about the author of this viz, visit:
 
 之后，用 git 把这个文件夹克隆到你电脑中网络文件存放的位置。
 
-通过浏览器来（chrome, safari, 还是 firefox 根据你的喜好）访问index.php这个文件即可见可视化。
+通过浏览器来（chrome, safari, 还是 firefox 根据你的喜好）访问 index.php 这个文件即可见可视化。
 
-如果上面的步骤都成功了，你可以用自己的数据来替换 example_data 文件夹里的事例数据。
+如果上面的步骤都成功了，你可以用自己的数据来替换 example_data 文件夹里的例子数据。
 
 图片的例子显示了水稻染色体的SNP，数据集来源于第一个参考文献。
 
