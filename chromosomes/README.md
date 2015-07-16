@@ -7,7 +7,7 @@ A visualization to show information on chromosomes, such as QTLs, genes, etc.
 
 C
 
-![Fig. 1: SNPs on Rice chromosomes.](https://github.com/daweih/cloudcat/blob/master/images/cloud_cat_v5.jpg)
+![Fig. 1: SNPs on Rice chromosomes.](https://github.com/daweih/d3_bioviz/chromosomes/chr.js.png)
 Fig. 1. SNPs on Rice chromosomes: An example showing SNP data from reference 1.
 
 ## Reference
