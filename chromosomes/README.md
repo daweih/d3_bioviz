@@ -24,3 +24,22 @@ For more information about the author of this viz, visit:
 - [DaWei Huang's Homepage at Zhang Zhang Lab](http://cbb.big.ac.cn/Dawei_Huang)
 
 
+一个染色体的可视化，可以用来显示染色体上特定区域的注释信息，如QTL，基因等等。
+
+## 如何使用
+
+首先，你需要安装 Apache 服务器和 Php 环境在你的电脑上。
+
+之后，用 git 把这个文件夹克隆到你电脑中网络文件存放的位置。
+
+通过浏览器来（chrome, safari, 还是 firefox 根据你的喜好）访问index.php这个文件即可见可视化。
+
+图片的例子显示了水稻染色体的SNP，数据集来源于第一个参考文献。
+
+## 参考文献
+- [Huang,X. et al. (2012) A map of rice genome variation reveals the origin of cultivated rice. Nature, 490, 497–501.](http://www.ncbi.nlm.nih.gov/pubmed/?term=23034647)
+
+
+
+
+
