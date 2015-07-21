@@ -1,4 +1,4 @@
-?# Contact     : daweimhuang@gmail.com
+# Contact     : daweimhuang@gmail.com
 # Date        : Sun Aug 14 13:52:45 AST 2011 by huangdw
 # Last Update : Mon Aug 15 12:02:45 AST 2011 by huangdw
 # Reference   : 
