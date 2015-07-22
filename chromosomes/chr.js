@@ -61,8 +61,41 @@ function chr_figure(log) {
 						"y": function(y) {return fig_height-30;},
 						"x": function(x) {return 10+index*chr_width+chr_width/2;},
 					});
+	var fig_text_unit = (fig_height-fig_legend_height)/data.length;
+/*
+
+	d3.tsv("chr_centromere_cM.txt", function(data) {
+		data.forEach(
+			function(c, index) {
+				if(c.Sequence == d.Sequence){
+					x = (left_margin+index*chr_width);
+					y = (chr_figure_loc(d.Length_bp)+fig_p_unit*c.loc);
+					console.log(x, y);
+				login
+					.append("rect")
+					.attr({
+						"y": y-2,
+						"x": x-0.2,
+						"rx": function(h) {
+								return 2;
+						},
+						"height": 4,
+						"width": chr_band_width+0.4,
+						"fill": "black",
+						"stroke-width": "0.4px",
+                        "stroke": "white",
+						"opacity": 1
+					});
+					
+				}
+			}
+		);	
+	});
+					
+
+*/	
+	
 	d3.tsv("example_data/"+d.Sequence+".sort.txt", function(data) {
-		var fig_text_unit = (fig_height-fig_legend_height)/data.length;
 		var fig_p_unit    = (fig_height-fig_legend_height)/max_Length_bp;
 		data.forEach(
 			function(d, index) {
